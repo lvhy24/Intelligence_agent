@@ -1,0 +1,704 @@
+2025-08-23 20:55:04,505 - TrajectoryGenerator - INFO - 轨迹生成程序启动
+2025-08-23 20:55:04,510 - TrajectoryGenerator - INFO - 开始处理 100 名居民的轨迹生成任务
+2025-08-23 20:55:04,511 - TrajectoryGenerator - INFO - 居民 1 的轨迹不存在，开始生成
+2025-08-23 20:55:04,511 - TrajectoryGenerator - INFO - 开始为居民 1 生成轨迹 (年龄: 30, 职业: 蓝领)
+2025-08-23 20:55:04,511 - TrajectoryGenerator - INFO - 正在查找坐标 116.437273,39.894630 附近 10 公里内的POI
+2025-08-23 20:55:04,598 - TrajectoryGenerator - INFO - 找到 1331 个附近POI
+2025-08-23 20:55:04,651 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:55:08,347 - TrajectoryGenerator - INFO - 居民 1 的轨迹生成成功
+2025-08-23 20:55:08,349 - TrajectoryGenerator - INFO - 居民 1 的轨迹已保存到 traj_1.json
+2025-08-23 20:55:08,351 - TrajectoryGenerator - INFO - 居民 2 的轨迹不存在，开始生成
+2025-08-23 20:55:08,352 - TrajectoryGenerator - INFO - 开始为居民 2 生成轨迹 (年龄: 40, 职业: 高级白领)
+2025-08-23 20:55:08,352 - TrajectoryGenerator - INFO - 正在查找坐标 116.438142,39.873809 附近 10 公里内的POI
+2025-08-23 20:55:08,412 - TrajectoryGenerator - INFO - 找到 1245 个附近POI
+2025-08-23 20:55:08,436 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:55:11,988 - TrajectoryGenerator - INFO - 居民 2 的轨迹生成成功
+2025-08-23 20:55:11,992 - TrajectoryGenerator - INFO - 居民 2 的轨迹已保存到 traj_2.json
+2025-08-23 20:55:12,006 - TrajectoryGenerator - INFO - 居民 3 的轨迹不存在，开始生成
+2025-08-23 20:55:12,006 - TrajectoryGenerator - INFO - 开始为居民 3 生成轨迹 (年龄: 37, 职业: 高级白领)
+2025-08-23 20:55:12,006 - TrajectoryGenerator - INFO - 正在查找坐标 116.355180,39.895408 附近 10 公里内的POI
+2025-08-23 20:55:12,043 - TrajectoryGenerator - INFO - 找到 1399 个附近POI
+2025-08-23 20:55:12,081 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:55:17,014 - TrajectoryGenerator - INFO - 居民 3 的轨迹生成成功
+2025-08-23 20:55:17,015 - TrajectoryGenerator - INFO - 居民 3 的轨迹已保存到 traj_3.json
+2025-08-23 20:55:17,028 - TrajectoryGenerator - INFO - 居民 4 的轨迹不存在，开始生成
+2025-08-23 20:55:17,033 - TrajectoryGenerator - INFO - 开始为居民 4 生成轨迹 (年龄: 29, 职业: 服务业)
+2025-08-23 20:55:17,034 - TrajectoryGenerator - INFO - 正在查找坐标 116.640050,40.130167 附近 10 公里内的POI
+2025-08-23 20:55:17,141 - TrajectoryGenerator - INFO - 找到 76 个附近POI
+2025-08-23 20:55:17,147 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:55:20,390 - TrajectoryGenerator - INFO - 居民 4 的轨迹生成成功
+2025-08-23 20:55:20,392 - TrajectoryGenerator - INFO - 居民 4 的轨迹已保存到 traj_4.json
+2025-08-23 20:55:20,395 - TrajectoryGenerator - INFO - 居民 5 的轨迹不存在，开始生成
+2025-08-23 20:55:20,395 - TrajectoryGenerator - INFO - 开始为居民 5 生成轨迹 (年龄: 57, 职业: 中级白领)
+2025-08-23 20:55:20,397 - TrajectoryGenerator - INFO - 正在查找坐标 116.414977,39.940015 附近 10 公里内的POI
+2025-08-23 20:55:20,487 - TrajectoryGenerator - INFO - 找到 1517 个附近POI
+2025-08-23 20:55:20,549 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:55:24,283 - TrajectoryGenerator - INFO - 居民 5 的轨迹生成成功
+2025-08-23 20:55:24,284 - TrajectoryGenerator - INFO - 居民 5 的轨迹已保存到 traj_5.json
+2025-08-23 20:55:24,286 - TrajectoryGenerator - INFO - 居民 6 的轨迹不存在，开始生成
+2025-08-23 20:55:24,286 - TrajectoryGenerator - INFO - 开始为居民 6 生成轨迹 (年龄: 22, 职业: 学生)
+2025-08-23 20:55:24,286 - TrajectoryGenerator - INFO - 正在查找坐标 116.178956,39.712670 附近 10 公里内的POI
+2025-08-23 20:55:24,384 - TrajectoryGenerator - INFO - 找到 50 个附近POI
+2025-08-23 20:55:24,384 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:55:29,810 - TrajectoryGenerator - INFO - 居民 6 的轨迹生成成功
+2025-08-23 20:55:29,814 - TrajectoryGenerator - INFO - 居民 6 的轨迹已保存到 traj_6.json
+2025-08-23 20:55:29,815 - TrajectoryGenerator - INFO - 居民 7 的轨迹不存在，开始生成
+2025-08-23 20:55:29,815 - TrajectoryGenerator - INFO - 开始为居民 7 生成轨迹 (年龄: 1, 职业: 学生)
+2025-08-23 20:55:29,815 - TrajectoryGenerator - INFO - 正在查找坐标 116.436039,39.914898 附近 10 公里内的POI
+2025-08-23 20:55:29,915 - TrajectoryGenerator - INFO - 找到 1418 个附近POI
+2025-08-23 20:55:29,977 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:55:34,114 - TrajectoryGenerator - INFO - 居民 7 的轨迹生成成功
+2025-08-23 20:55:34,116 - TrajectoryGenerator - INFO - 居民 7 的轨迹已保存到 traj_7.json
+2025-08-23 20:55:34,120 - TrajectoryGenerator - INFO - 居民 8 的轨迹不存在，开始生成
+2025-08-23 20:55:34,120 - TrajectoryGenerator - INFO - 开始为居民 8 生成轨迹 (年龄: 28, 职业: 蓝领)
+2025-08-23 20:55:34,122 - TrajectoryGenerator - INFO - 正在查找坐标 116.420350,39.981274 附近 10 公里内的POI
+2025-08-23 20:55:34,189 - TrajectoryGenerator - INFO - 找到 1138 个附近POI
+2025-08-23 20:55:34,221 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:55:38,018 - TrajectoryGenerator - INFO - 居民 8 的轨迹生成成功
+2025-08-23 20:55:38,020 - TrajectoryGenerator - INFO - 居民 8 的轨迹已保存到 traj_8.json
+2025-08-23 20:55:38,021 - TrajectoryGenerator - INFO - 居民 9 的轨迹不存在，开始生成
+2025-08-23 20:55:38,021 - TrajectoryGenerator - INFO - 开始为居民 9 生成轨迹 (年龄: 37, 职业: 初级白领)
+2025-08-23 20:55:38,021 - TrajectoryGenerator - INFO - 正在查找坐标 116.305581,39.912451 附近 10 公里内的POI
+2025-08-23 20:55:38,085 - TrajectoryGenerator - INFO - 找到 997 个附近POI
+2025-08-23 20:55:38,133 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:55:42,098 - TrajectoryGenerator - INFO - 居民 9 的轨迹生成成功
+2025-08-23 20:55:42,101 - TrajectoryGenerator - INFO - 居民 9 的轨迹已保存到 traj_9.json
+2025-08-23 20:55:42,104 - TrajectoryGenerator - INFO - 居民 10 的轨迹不存在，开始生成
+2025-08-23 20:55:42,106 - TrajectoryGenerator - INFO - 开始为居民 10 生成轨迹 (年龄: 24, 职业: 服务业)
+2025-08-23 20:55:42,107 - TrajectoryGenerator - INFO - 正在查找坐标 116.456437,39.962750 附近 10 公里内的POI
+2025-08-23 20:55:42,175 - TrajectoryGenerator - INFO - 找到 1136 个附近POI
+2025-08-23 20:55:42,196 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:55:45,436 - TrajectoryGenerator - INFO - 居民 10 的轨迹生成成功
+2025-08-23 20:55:45,439 - TrajectoryGenerator - INFO - 居民 10 的轨迹已保存到 traj_10.json
+2025-08-23 20:55:45,449 - TrajectoryGenerator - INFO - 居民 11 的轨迹不存在，开始生成
+2025-08-23 20:55:45,450 - TrajectoryGenerator - INFO - 开始为居民 11 生成轨迹 (年龄: 35, 职业: 初级白领)
+2025-08-23 20:55:45,450 - TrajectoryGenerator - INFO - 正在查找坐标 116.323369,39.511053 附近 10 公里内的POI
+2025-08-23 20:55:45,551 - TrajectoryGenerator - INFO - 找到 5 个附近POI
+2025-08-23 20:55:45,553 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:55:48,548 - TrajectoryGenerator - INFO - 居民 11 的轨迹生成成功
+2025-08-23 20:55:48,550 - TrajectoryGenerator - INFO - 居民 11 的轨迹已保存到 traj_11.json
+2025-08-23 20:55:48,553 - TrajectoryGenerator - INFO - 居民 12 的轨迹不存在，开始生成
+2025-08-23 20:55:48,555 - TrajectoryGenerator - INFO - 开始为居民 12 生成轨迹 (年龄: 17, 职业: 学生)
+2025-08-23 20:55:48,557 - TrajectoryGenerator - INFO - 正在查找坐标 116.168383,39.712354 附近 10 公里内的POI
+2025-08-23 20:55:48,652 - TrajectoryGenerator - INFO - 找到 48 个附近POI
+2025-08-23 20:55:48,652 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:55:53,569 - TrajectoryGenerator - INFO - 居民 12 的轨迹生成成功
+2025-08-23 20:55:53,571 - TrajectoryGenerator - INFO - 居民 12 的轨迹已保存到 traj_12.json
+2025-08-23 20:55:53,581 - TrajectoryGenerator - INFO - 居民 13 的轨迹不存在，开始生成
+2025-08-23 20:55:53,582 - TrajectoryGenerator - INFO - 开始为居民 13 生成轨迹 (年龄: 37, 职业: 服务业)
+2025-08-23 20:55:53,582 - TrajectoryGenerator - INFO - 正在查找坐标 116.164420,40.177274 附近 10 公里内的POI
+2025-08-23 20:55:53,674 - TrajectoryGenerator - INFO - 找到 46 个附近POI
+2025-08-23 20:55:53,680 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:55:57,253 - TrajectoryGenerator - INFO - 居民 13 的轨迹生成成功
+2025-08-23 20:55:57,256 - TrajectoryGenerator - INFO - 居民 13 的轨迹已保存到 traj_13.json
+2025-08-23 20:55:57,258 - TrajectoryGenerator - INFO - 居民 14 的轨迹不存在，开始生成
+2025-08-23 20:55:57,261 - TrajectoryGenerator - INFO - 开始为居民 14 生成轨迹 (年龄: 40, 职业: 服务业)
+2025-08-23 20:55:57,261 - TrajectoryGenerator - INFO - 正在查找坐标 116.306163,39.944258 附近 10 公里内的POI
+2025-08-23 20:55:57,340 - TrajectoryGenerator - INFO - 找到 930 个附近POI
+2025-08-23 20:55:57,359 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:56:01,225 - TrajectoryGenerator - INFO - 居民 14 的轨迹生成成功
+2025-08-23 20:56:01,227 - TrajectoryGenerator - INFO - 居民 14 的轨迹已保存到 traj_14.json
+2025-08-23 20:56:01,229 - TrajectoryGenerator - INFO - 居民 15 的轨迹不存在，开始生成
+2025-08-23 20:56:01,229 - TrajectoryGenerator - INFO - 开始为居民 15 生成轨迹 (年龄: 60, 职业: 退休人员)
+2025-08-23 20:56:01,229 - TrajectoryGenerator - INFO - 正在查找坐标 116.556000,40.107737 附近 10 公里内的POI
+2025-08-23 20:56:01,297 - TrajectoryGenerator - INFO - 找到 76 个附近POI
+2025-08-23 20:56:01,302 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:56:04,319 - TrajectoryGenerator - INFO - 居民 15 的轨迹生成成功
+2025-08-23 20:56:04,322 - TrajectoryGenerator - INFO - 居民 15 的轨迹已保存到 traj_15.json
+2025-08-23 20:56:04,323 - TrajectoryGenerator - INFO - 居民 16 的轨迹不存在，开始生成
+2025-08-23 20:56:04,323 - TrajectoryGenerator - INFO - 开始为居民 16 生成轨迹 (年龄: 33, 职业: 蓝领)
+2025-08-23 20:56:04,325 - TrajectoryGenerator - INFO - 正在查找坐标 116.236664,40.224167 附近 10 公里内的POI
+2025-08-23 20:56:04,411 - TrajectoryGenerator - INFO - 找到 48 个附近POI
+2025-08-23 20:56:04,411 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:56:08,768 - TrajectoryGenerator - INFO - 居民 16 的轨迹生成成功
+2025-08-23 20:56:08,771 - TrajectoryGenerator - INFO - 居民 16 的轨迹已保存到 traj_16.json
+2025-08-23 20:56:08,773 - TrajectoryGenerator - INFO - 居民 17 的轨迹不存在，开始生成
+2025-08-23 20:56:08,773 - TrajectoryGenerator - INFO - 开始为居民 17 生成轨迹 (年龄: 13, 职业: 学生)
+2025-08-23 20:56:08,775 - TrajectoryGenerator - INFO - 正在查找坐标 116.317071,39.841724 附近 10 公里内的POI
+2025-08-23 20:56:08,873 - TrajectoryGenerator - INFO - 找到 614 个附近POI
+2025-08-23 20:56:08,902 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:56:12,613 - TrajectoryGenerator - INFO - 居民 17 的轨迹生成成功
+2025-08-23 20:56:12,618 - TrajectoryGenerator - INFO - 居民 17 的轨迹已保存到 traj_17.json
+2025-08-23 20:56:12,621 - TrajectoryGenerator - INFO - 居民 18 的轨迹不存在，开始生成
+2025-08-23 20:56:12,622 - TrajectoryGenerator - INFO - 开始为居民 18 生成轨迹 (年龄: 40, 职业: 初级白领)
+2025-08-23 20:56:12,623 - TrajectoryGenerator - INFO - 正在查找坐标 116.493307,39.805309 附近 10 公里内的POI
+2025-08-23 20:56:12,705 - TrajectoryGenerator - INFO - 找到 290 个附近POI
+2025-08-23 20:56:12,711 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:56:16,482 - TrajectoryGenerator - INFO - 居民 18 的轨迹生成成功
+2025-08-23 20:56:16,487 - TrajectoryGenerator - INFO - 居民 18 的轨迹已保存到 traj_18.json
+2025-08-23 20:56:16,487 - TrajectoryGenerator - INFO - 居民 19 的轨迹不存在，开始生成
+2025-08-23 20:56:16,487 - TrajectoryGenerator - INFO - 开始为居民 19 生成轨迹 (年龄: 36, 职业: 初级白领)
+2025-08-23 20:56:16,489 - TrajectoryGenerator - INFO - 正在查找坐标 116.522839,39.777723 附近 10 公里内的POI
+2025-08-23 20:56:16,547 - TrajectoryGenerator - INFO - 找到 105 个附近POI
+2025-08-23 20:56:16,549 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:56:21,549 - TrajectoryGenerator - INFO - 居民 19 的轨迹生成成功
+2025-08-23 20:56:21,553 - TrajectoryGenerator - INFO - 居民 19 的轨迹已保存到 traj_19.json
+2025-08-23 20:56:21,572 - TrajectoryGenerator - INFO - 居民 20 的轨迹不存在，开始生成
+2025-08-23 20:56:21,572 - TrajectoryGenerator - INFO - 开始为居民 20 生成轨迹 (年龄: 20, 职业: 学生)
+2025-08-23 20:56:21,572 - TrajectoryGenerator - INFO - 正在查找坐标 116.432597,39.936160 附近 10 公里内的POI
+2025-08-23 20:56:21,707 - TrajectoryGenerator - INFO - 找到 1450 个附近POI
+2025-08-23 20:56:21,731 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:56:27,317 - TrajectoryGenerator - INFO - 居民 20 的轨迹生成成功
+2025-08-23 20:56:27,319 - TrajectoryGenerator - INFO - 居民 20 的轨迹已保存到 traj_20.json
+2025-08-23 20:56:27,319 - TrajectoryGenerator - INFO - 居民 21 的轨迹不存在，开始生成
+2025-08-23 20:56:27,319 - TrajectoryGenerator - INFO - 开始为居民 21 生成轨迹 (年龄: 28, 职业: 初级白领)
+2025-08-23 20:56:27,321 - TrajectoryGenerator - INFO - 正在查找坐标 116.315906,39.952529 附近 10 公里内的POI
+2025-08-23 20:56:27,406 - TrajectoryGenerator - INFO - 找到 980 个附近POI
+2025-08-23 20:56:27,447 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:56:31,455 - TrajectoryGenerator - INFO - 居民 21 的轨迹生成成功
+2025-08-23 20:56:31,457 - TrajectoryGenerator - INFO - 居民 21 的轨迹已保存到 traj_21.json
+2025-08-23 20:56:31,459 - TrajectoryGenerator - INFO - 居民 22 的轨迹不存在，开始生成
+2025-08-23 20:56:31,459 - TrajectoryGenerator - INFO - 开始为居民 22 生成轨迹 (年龄: 66, 职业: 退休人员)
+2025-08-23 20:56:31,459 - TrajectoryGenerator - INFO - 正在查找坐标 116.310932,39.974299 附近 10 公里内的POI
+2025-08-23 20:56:31,505 - TrajectoryGenerator - INFO - 找到 748 个附近POI
+2025-08-23 20:56:31,521 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:56:36,202 - TrajectoryGenerator - INFO - 居民 22 的轨迹生成成功
+2025-08-23 20:56:36,204 - TrajectoryGenerator - INFO - 居民 22 的轨迹已保存到 traj_22.json
+2025-08-23 20:56:36,204 - TrajectoryGenerator - INFO - 居民 23 的轨迹不存在，开始生成
+2025-08-23 20:56:36,204 - TrajectoryGenerator - INFO - 开始为居民 23 生成轨迹 (年龄: 82, 职业: 退休人员)
+2025-08-23 20:56:36,204 - TrajectoryGenerator - INFO - 正在查找坐标 116.501524,39.873809 附近 10 公里内的POI
+2025-08-23 20:56:36,251 - TrajectoryGenerator - INFO - 找到 853 个附近POI
+2025-08-23 20:56:36,271 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:56:40,263 - TrajectoryGenerator - INFO - 居民 23 的轨迹生成成功
+2025-08-23 20:56:40,264 - TrajectoryGenerator - INFO - 居民 23 的轨迹已保存到 traj_23.json
+2025-08-23 20:56:40,266 - TrajectoryGenerator - INFO - 居民 24 的轨迹不存在，开始生成
+2025-08-23 20:56:40,266 - TrajectoryGenerator - INFO - 开始为居民 24 生成轨迹 (年龄: 76, 职业: 退休人员)
+2025-08-23 20:56:40,270 - TrajectoryGenerator - INFO - 正在查找坐标 116.362282,39.878379 附近 10 公里内的POI
+2025-08-23 20:56:40,331 - TrajectoryGenerator - INFO - 找到 1294 个附近POI
+2025-08-23 20:56:40,381 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:56:44,256 - TrajectoryGenerator - INFO - 居民 24 的轨迹生成成功
+2025-08-23 20:56:44,261 - TrajectoryGenerator - INFO - 居民 24 的轨迹已保存到 traj_24.json
+2025-08-23 20:56:44,263 - TrajectoryGenerator - INFO - 居民 25 的轨迹不存在，开始生成
+2025-08-23 20:56:44,263 - TrajectoryGenerator - INFO - 开始为居民 25 生成轨迹 (年龄: 25, 职业: 初级白领)
+2025-08-23 20:56:44,267 - TrajectoryGenerator - INFO - 正在查找坐标 116.317460,39.896550 附近 10 公里内的POI
+2025-08-23 20:56:44,340 - TrajectoryGenerator - INFO - 找到 1059 个附近POI
+2025-08-23 20:56:44,373 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:56:48,145 - TrajectoryGenerator - INFO - 居民 25 的轨迹生成成功
+2025-08-23 20:56:48,147 - TrajectoryGenerator - INFO - 居民 25 的轨迹已保存到 traj_25.json
+2025-08-23 20:56:48,151 - TrajectoryGenerator - INFO - 居民 26 的轨迹不存在，开始生成
+2025-08-23 20:56:48,151 - TrajectoryGenerator - INFO - 开始为居民 26 生成轨迹 (年龄: 14, 职业: 学生)
+2025-08-23 20:56:48,151 - TrajectoryGenerator - INFO - 正在查找坐标 116.331899,40.011774 附近 10 公里内的POI
+2025-08-23 20:56:48,213 - TrajectoryGenerator - INFO - 找到 561 个附近POI
+2025-08-23 20:56:48,244 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:56:52,039 - TrajectoryGenerator - INFO - 居民 26 的轨迹生成成功
+2025-08-23 20:56:52,043 - TrajectoryGenerator - INFO - 居民 26 的轨迹已保存到 traj_26.json
+2025-08-23 20:56:52,045 - TrajectoryGenerator - INFO - 居民 27 的轨迹不存在，开始生成
+2025-08-23 20:56:52,045 - TrajectoryGenerator - INFO - 开始为居民 27 生成轨迹 (年龄: 30, 职业: 服务业)
+2025-08-23 20:56:52,048 - TrajectoryGenerator - INFO - 正在查找坐标 116.307347,39.955545 附近 10 公里内的POI
+2025-08-23 20:56:52,136 - TrajectoryGenerator - INFO - 找到 864 个附近POI
+2025-08-23 20:56:52,171 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:56:55,829 - TrajectoryGenerator - INFO - 居民 27 的轨迹生成成功
+2025-08-23 20:56:55,829 - TrajectoryGenerator - INFO - 居民 27 的轨迹已保存到 traj_27.json
+2025-08-23 20:56:55,833 - TrajectoryGenerator - INFO - 居民 28 的轨迹不存在，开始生成
+2025-08-23 20:56:55,835 - TrajectoryGenerator - INFO - 开始为居民 28 生成轨迹 (年龄: 28, 职业: 初级白领)
+2025-08-23 20:56:55,837 - TrajectoryGenerator - INFO - 正在查找坐标 116.643010,40.346641 附近 10 公里内的POI
+2025-08-23 20:56:55,931 - TrajectoryGenerator - INFO - 找到 20 个附近POI
+2025-08-23 20:56:55,931 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:56:58,469 - TrajectoryGenerator - INFO - 居民 28 的轨迹生成成功
+2025-08-23 20:56:58,469 - TrajectoryGenerator - INFO - 居民 28 的轨迹已保存到 traj_28.json
+2025-08-23 20:56:58,471 - TrajectoryGenerator - INFO - 居民 29 的轨迹不存在，开始生成
+2025-08-23 20:56:58,473 - TrajectoryGenerator - INFO - 开始为居民 29 生成轨迹 (年龄: 9, 职业: 学生)
+2025-08-23 20:56:58,483 - TrajectoryGenerator - INFO - 正在查找坐标 116.493694,39.976750 附近 10 公里内的POI
+2025-08-23 20:56:58,555 - TrajectoryGenerator - INFO - 找到 697 个附近POI
+2025-08-23 20:56:58,587 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:57:02,688 - TrajectoryGenerator - INFO - 居民 29 的轨迹生成成功
+2025-08-23 20:57:02,689 - TrajectoryGenerator - INFO - 居民 29 的轨迹已保存到 traj_29.json
+2025-08-23 20:57:02,691 - TrajectoryGenerator - INFO - 居民 30 的轨迹不存在，开始生成
+2025-08-23 20:57:02,691 - TrajectoryGenerator - INFO - 开始为居民 30 生成轨迹 (年龄: 100, 职业: 退休人员)
+2025-08-23 20:57:02,696 - TrajectoryGenerator - INFO - 正在查找坐标 116.478513,40.239818 附近 10 公里内的POI
+2025-08-23 20:57:02,747 - TrajectoryGenerator - INFO - 找到 6 个附近POI
+2025-08-23 20:57:02,747 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:57:05,456 - TrajectoryGenerator - INFO - 居民 30 的轨迹生成成功
+2025-08-23 20:57:05,458 - TrajectoryGenerator - INFO - 居民 30 的轨迹已保存到 traj_30.json
+2025-08-23 20:57:05,460 - TrajectoryGenerator - INFO - 居民 31 的轨迹不存在，开始生成
+2025-08-23 20:57:05,461 - TrajectoryGenerator - INFO - 开始为居民 31 生成轨迹 (年龄: 46, 职业: 初级白领)
+2025-08-23 20:57:05,465 - TrajectoryGenerator - INFO - 正在查找坐标 116.454218,39.932546 附近 10 公里内的POI
+2025-08-23 20:57:05,531 - TrajectoryGenerator - INFO - 找到 1360 个附近POI
+2025-08-23 20:57:05,588 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:57:09,244 - TrajectoryGenerator - INFO - 居民 31 的轨迹生成成功
+2025-08-23 20:57:09,245 - TrajectoryGenerator - INFO - 居民 31 的轨迹已保存到 traj_31.json
+2025-08-23 20:57:09,247 - TrajectoryGenerator - INFO - 居民 32 的轨迹不存在，开始生成
+2025-08-23 20:57:09,257 - TrajectoryGenerator - INFO - 开始为居民 32 生成轨迹 (年龄: 35, 职业: 初级白领)
+2025-08-23 20:57:09,257 - TrajectoryGenerator - INFO - 正在查找坐标 116.451363,39.871165 附近 10 公里内的POI
+2025-08-23 20:57:09,325 - TrajectoryGenerator - INFO - 找到 1190 个附近POI
+2025-08-23 20:57:09,347 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:57:13,857 - TrajectoryGenerator - INFO - 居民 32 的轨迹生成成功
+2025-08-23 20:57:13,861 - TrajectoryGenerator - INFO - 居民 32 的轨迹已保存到 traj_32.json
+2025-08-23 20:57:13,863 - TrajectoryGenerator - INFO - 居民 33 的轨迹不存在，开始生成
+2025-08-23 20:57:13,863 - TrajectoryGenerator - INFO - 开始为居民 33 生成轨迹 (年龄: 27, 职业: 服务业)
+2025-08-23 20:57:13,863 - TrajectoryGenerator - INFO - 正在查找坐标 116.438551,39.917501 附近 10 公里内的POI
+2025-08-23 20:57:13,906 - TrajectoryGenerator - INFO - 找到 1420 个附近POI
+2025-08-23 20:57:13,983 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:57:17,741 - TrajectoryGenerator - INFO - 居民 33 的轨迹生成成功
+2025-08-23 20:57:17,744 - TrajectoryGenerator - INFO - 居民 33 的轨迹已保存到 traj_33.json
+2025-08-23 20:57:17,756 - TrajectoryGenerator - INFO - 居民 34 的轨迹不存在，开始生成
+2025-08-23 20:57:17,756 - TrajectoryGenerator - INFO - 开始为居民 34 生成轨迹 (年龄: 37, 职业: 初级白领)
+2025-08-23 20:57:17,759 - TrajectoryGenerator - INFO - 正在查找坐标 116.479325,39.892655 附近 10 公里内的POI
+2025-08-23 20:57:17,881 - TrajectoryGenerator - INFO - 找到 1115 个附近POI
+2025-08-23 20:57:17,932 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:57:21,837 - TrajectoryGenerator - INFO - 居民 34 的轨迹生成成功
+2025-08-23 20:57:21,839 - TrajectoryGenerator - INFO - 居民 34 的轨迹已保存到 traj_34.json
+2025-08-23 20:57:21,841 - TrajectoryGenerator - INFO - 居民 35 的轨迹不存在，开始生成
+2025-08-23 20:57:21,846 - TrajectoryGenerator - INFO - 开始为居民 35 生成轨迹 (年龄: 78, 职业: 退休人员)
+2025-08-23 20:57:21,848 - TrajectoryGenerator - INFO - 正在查找坐标 116.448275,39.882944 附近 10 公里内的POI
+2025-08-23 20:57:21,911 - TrajectoryGenerator - INFO - 找到 1262 个附近POI
+2025-08-23 20:57:21,937 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:57:27,672 - TrajectoryGenerator - INFO - 居民 35 的轨迹生成成功
+2025-08-23 20:57:27,676 - TrajectoryGenerator - INFO - 居民 35 的轨迹已保存到 traj_35.json
+2025-08-23 20:57:27,676 - TrajectoryGenerator - INFO - 居民 36 的轨迹不存在，开始生成
+2025-08-23 20:57:27,688 - TrajectoryGenerator - INFO - 开始为居民 36 生成轨迹 (年龄: 37, 职业: 初级白领)
+2025-08-23 20:57:27,691 - TrajectoryGenerator - INFO - 正在查找坐标 116.457008,39.894244 附近 10 公里内的POI
+2025-08-23 20:57:27,791 - TrajectoryGenerator - INFO - 找到 1267 个附近POI
+2025-08-23 20:57:27,844 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:57:31,257 - TrajectoryGenerator - INFO - 居民 36 的轨迹生成成功
+2025-08-23 20:57:31,260 - TrajectoryGenerator - INFO - 居民 36 的轨迹已保存到 traj_36.json
+2025-08-23 20:57:31,261 - TrajectoryGenerator - INFO - 居民 37 的轨迹不存在，开始生成
+2025-08-23 20:57:31,264 - TrajectoryGenerator - INFO - 开始为居民 37 生成轨迹 (年龄: 47, 职业: 初级白领)
+2025-08-23 20:57:31,266 - TrajectoryGenerator - INFO - 正在查找坐标 116.337397,39.901002 附近 10 公里内的POI
+2025-08-23 20:57:31,360 - TrajectoryGenerator - INFO - 找到 1277 个附近POI
+2025-08-23 20:57:31,402 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:57:35,354 - TrajectoryGenerator - INFO - 居民 37 的轨迹生成成功
+2025-08-23 20:57:35,357 - TrajectoryGenerator - INFO - 居民 37 的轨迹已保存到 traj_37.json
+2025-08-23 20:57:35,358 - TrajectoryGenerator - INFO - 居民 38 的轨迹不存在，开始生成
+2025-08-23 20:57:35,358 - TrajectoryGenerator - INFO - 开始为居民 38 生成轨迹 (年龄: 52, 职业: 初级白领)
+2025-08-23 20:57:35,360 - TrajectoryGenerator - INFO - 正在查找坐标 116.476730,39.907398 附近 10 公里内的POI
+2025-08-23 20:57:35,417 - TrajectoryGenerator - INFO - 找到 1193 个附近POI
+2025-08-23 20:57:35,469 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:57:39,629 - TrajectoryGenerator - INFO - 居民 38 的轨迹生成成功
+2025-08-23 20:57:39,631 - TrajectoryGenerator - INFO - 居民 38 的轨迹已保存到 traj_38.json
+2025-08-23 20:57:39,631 - TrajectoryGenerator - INFO - 居民 39 的轨迹不存在，开始生成
+2025-08-23 20:57:39,631 - TrajectoryGenerator - INFO - 开始为居民 39 生成轨迹 (年龄: 46, 职业: 初级白领)
+2025-08-23 20:57:39,631 - TrajectoryGenerator - INFO - 正在查找坐标 116.315724,40.061023 附近 10 公里内的POI
+2025-08-23 20:57:39,666 - TrajectoryGenerator - INFO - 找到 300 个附近POI
+2025-08-23 20:57:39,673 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:57:43,546 - TrajectoryGenerator - INFO - 居民 39 的轨迹生成成功
+2025-08-23 20:57:43,550 - TrajectoryGenerator - INFO - 居民 39 的轨迹已保存到 traj_39.json
+2025-08-23 20:57:43,567 - TrajectoryGenerator - INFO - 居民 40 的轨迹不存在，开始生成
+2025-08-23 20:57:43,569 - TrajectoryGenerator - INFO - 开始为居民 40 生成轨迹 (年龄: 46, 职业: 中级白领)
+2025-08-23 20:57:43,569 - TrajectoryGenerator - INFO - 正在查找坐标 116.347477,40.005901 附近 10 公里内的POI
+2025-08-23 20:57:43,611 - TrajectoryGenerator - INFO - 找到 674 个附近POI
+2025-08-23 20:57:43,629 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:57:48,462 - TrajectoryGenerator - INFO - 居民 40 的轨迹生成成功
+2025-08-23 20:57:48,464 - TrajectoryGenerator - INFO - 居民 40 的轨迹已保存到 traj_40.json
+2025-08-23 20:57:48,495 - TrajectoryGenerator - INFO - 居民 41 的轨迹不存在，开始生成
+2025-08-23 20:57:48,495 - TrajectoryGenerator - INFO - 开始为居民 41 生成轨迹 (年龄: 36, 职业: 蓝领)
+2025-08-23 20:57:48,495 - TrajectoryGenerator - INFO - 正在查找坐标 115.980802,40.468386 附近 10 公里内的POI
+2025-08-23 20:57:48,564 - TrajectoryGenerator - INFO - 找到 7 个附近POI
+2025-08-23 20:57:48,564 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:57:51,137 - TrajectoryGenerator - INFO - 居民 41 的轨迹生成成功
+2025-08-23 20:57:51,139 - TrajectoryGenerator - INFO - 居民 41 的轨迹已保存到 traj_41.json
+2025-08-23 20:57:51,141 - TrajectoryGenerator - INFO - 居民 42 的轨迹不存在，开始生成
+2025-08-23 20:57:51,142 - TrajectoryGenerator - INFO - 开始为居民 42 生成轨迹 (年龄: 40, 职业: 中级白领)
+2025-08-23 20:57:51,144 - TrajectoryGenerator - INFO - 正在查找坐标 116.472239,39.858662 附近 10 公里内的POI
+2025-08-23 20:57:51,263 - TrajectoryGenerator - INFO - 找到 999 个附近POI
+2025-08-23 20:57:51,291 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:57:55,527 - TrajectoryGenerator - INFO - 居民 42 的轨迹生成成功
+2025-08-23 20:57:55,528 - TrajectoryGenerator - INFO - 居民 42 的轨迹已保存到 traj_42.json
+2025-08-23 20:57:55,535 - TrajectoryGenerator - INFO - 居民 43 的轨迹不存在，开始生成
+2025-08-23 20:57:55,535 - TrajectoryGenerator - INFO - 开始为居民 43 生成轨迹 (年龄: 27, 职业: 初级白领)
+2025-08-23 20:57:55,537 - TrajectoryGenerator - INFO - 正在查找坐标 116.355703,39.921416 附近 10 公里内的POI
+2025-08-23 20:57:55,581 - TrajectoryGenerator - INFO - 找到 1482 个附近POI
+2025-08-23 20:57:55,607 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:58:00,136 - TrajectoryGenerator - INFO - 居民 43 的轨迹生成成功
+2025-08-23 20:58:00,137 - TrajectoryGenerator - INFO - 居民 43 的轨迹已保存到 traj_43.json
+2025-08-23 20:58:00,141 - TrajectoryGenerator - INFO - 居民 44 的轨迹不存在，开始生成
+2025-08-23 20:58:00,141 - TrajectoryGenerator - INFO - 开始为居民 44 生成轨迹 (年龄: 33, 职业: 蓝领)
+2025-08-23 20:58:00,141 - TrajectoryGenerator - INFO - 正在查找坐标 116.252168,39.871713 附近 10 公里内的POI
+2025-08-23 20:58:00,206 - TrajectoryGenerator - INFO - 找到 357 个附近POI
+2025-08-23 20:58:00,211 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:58:04,641 - TrajectoryGenerator - INFO - 居民 44 的轨迹生成成功
+2025-08-23 20:58:04,644 - TrajectoryGenerator - INFO - 居民 44 的轨迹已保存到 traj_44.json
+2025-08-23 20:58:04,645 - TrajectoryGenerator - INFO - 居民 45 的轨迹不存在，开始生成
+2025-08-23 20:58:04,653 - TrajectoryGenerator - INFO - 开始为居民 45 生成轨迹 (年龄: 38, 职业: 蓝领)
+2025-08-23 20:58:04,653 - TrajectoryGenerator - INFO - 正在查找坐标 116.616397,39.927256 附近 10 公里内的POI
+2025-08-23 20:58:04,712 - TrajectoryGenerator - INFO - 找到 164 个附近POI
+2025-08-23 20:58:04,716 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:58:07,896 - TrajectoryGenerator - INFO - 居民 45 的轨迹生成成功
+2025-08-23 20:58:07,901 - TrajectoryGenerator - INFO - 居民 45 的轨迹已保存到 traj_45.json
+2025-08-23 20:58:07,912 - TrajectoryGenerator - INFO - 居民 46 的轨迹不存在，开始生成
+2025-08-23 20:58:07,912 - TrajectoryGenerator - INFO - 开始为居民 46 生成轨迹 (年龄: 52, 职业: 初级白领)
+2025-08-23 20:58:07,912 - TrajectoryGenerator - INFO - 正在查找坐标 116.323393,40.031793 附近 10 公里内的POI
+2025-08-23 20:58:07,948 - TrajectoryGenerator - INFO - 找到 433 个附近POI
+2025-08-23 20:58:07,961 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:58:12,146 - TrajectoryGenerator - INFO - 居民 46 的轨迹生成成功
+2025-08-23 20:58:12,148 - TrajectoryGenerator - INFO - 居民 46 的轨迹已保存到 traj_46.json
+2025-08-23 20:58:12,149 - TrajectoryGenerator - INFO - 居民 47 的轨迹不存在，开始生成
+2025-08-23 20:58:12,149 - TrajectoryGenerator - INFO - 开始为居民 47 生成轨迹 (年龄: 40, 职业: 蓝领)
+2025-08-23 20:58:12,149 - TrajectoryGenerator - INFO - 正在查找坐标 116.31488,39.968172 附近 10 公里内的POI
+2025-08-23 20:58:12,195 - TrajectoryGenerator - INFO - 找到 832 个附近POI
+2025-08-23 20:58:12,216 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:58:17,337 - TrajectoryGenerator - INFO - 居民 47 的轨迹生成成功
+2025-08-23 20:58:17,341 - TrajectoryGenerator - INFO - 居民 47 的轨迹已保存到 traj_47.json
+2025-08-23 20:58:17,343 - TrajectoryGenerator - INFO - 居民 48 的轨迹不存在，开始生成
+2025-08-23 20:58:17,347 - TrajectoryGenerator - INFO - 开始为居民 48 生成轨迹 (年龄: 58, 职业: 服务业)
+2025-08-23 20:58:17,347 - TrajectoryGenerator - INFO - 正在查找坐标 116.487289,39.985019 附近 10 公里内的POI
+2025-08-23 20:58:17,414 - TrajectoryGenerator - INFO - 找到 641 个附近POI
+2025-08-23 20:58:17,427 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:58:22,764 - TrajectoryGenerator - INFO - 居民 48 的轨迹生成成功
+2025-08-23 20:58:22,769 - TrajectoryGenerator - INFO - 居民 48 的轨迹已保存到 traj_48.json
+2025-08-23 20:58:22,769 - TrajectoryGenerator - INFO - 居民 49 的轨迹不存在，开始生成
+2025-08-23 20:58:22,771 - TrajectoryGenerator - INFO - 开始为居民 49 生成轨迹 (年龄: 43, 职业: 初级白领)
+2025-08-23 20:58:22,775 - TrajectoryGenerator - INFO - 正在查找坐标 115.962963,39.750437 附近 10 公里内的POI
+2025-08-23 20:58:22,838 - TrajectoryGenerator - INFO - 找到 7 个附近POI
+2025-08-23 20:58:22,841 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:58:25,634 - TrajectoryGenerator - INFO - 居民 49 的轨迹生成成功
+2025-08-23 20:58:25,638 - TrajectoryGenerator - INFO - 居民 49 的轨迹已保存到 traj_49.json
+2025-08-23 20:58:25,639 - TrajectoryGenerator - INFO - 居民 50 的轨迹不存在，开始生成
+2025-08-23 20:58:25,641 - TrajectoryGenerator - INFO - 开始为居民 50 生成轨迹 (年龄: 18, 职业: 学生)
+2025-08-23 20:58:25,641 - TrajectoryGenerator - INFO - 正在查找坐标 116.378493,39.885671 附近 10 公里内的POI
+2025-08-23 20:58:25,705 - TrajectoryGenerator - INFO - 找到 1382 个附近POI
+2025-08-23 20:58:25,730 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:58:30,144 - TrajectoryGenerator - INFO - 居民 50 的轨迹生成成功
+2025-08-23 20:58:30,145 - TrajectoryGenerator - INFO - 居民 50 的轨迹已保存到 traj_50.json
+2025-08-23 20:58:30,149 - TrajectoryGenerator - INFO - 居民 51 的轨迹不存在，开始生成
+2025-08-23 20:58:30,149 - TrajectoryGenerator - INFO - 开始为居民 51 生成轨迹 (年龄: 25, 职业: 高级白领)
+2025-08-23 20:58:30,154 - TrajectoryGenerator - INFO - 正在查找坐标 116.367001,40.083246 附近 10 公里内的POI
+2025-08-23 20:58:30,206 - TrajectoryGenerator - INFO - 找到 218 个附近POI
+2025-08-23 20:58:30,211 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:58:33,728 - TrajectoryGenerator - INFO - 居民 51 的轨迹生成成功
+2025-08-23 20:58:33,731 - TrajectoryGenerator - INFO - 居民 51 的轨迹已保存到 traj_51.json
+2025-08-23 20:58:33,733 - TrajectoryGenerator - INFO - 居民 52 的轨迹不存在，开始生成
+2025-08-23 20:58:33,735 - TrajectoryGenerator - INFO - 开始为居民 52 生成轨迹 (年龄: 43, 职业: 初级白领)
+2025-08-23 20:58:33,737 - TrajectoryGenerator - INFO - 正在查找坐标 116.533107,39.756249 附近 10 公里内的POI
+2025-08-23 20:58:33,828 - TrajectoryGenerator - INFO - 找到 83 个附近POI
+2025-08-23 20:58:33,838 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:58:37,613 - TrajectoryGenerator - INFO - 居民 52 的轨迹生成成功
+2025-08-23 20:58:37,619 - TrajectoryGenerator - INFO - 居民 52 的轨迹已保存到 traj_52.json
+2025-08-23 20:58:37,623 - TrajectoryGenerator - INFO - 居民 53 的轨迹不存在，开始生成
+2025-08-23 20:58:37,623 - TrajectoryGenerator - INFO - 开始为居民 53 生成轨迹 (年龄: 77, 职业: 退休人员)
+2025-08-23 20:58:37,636 - TrajectoryGenerator - INFO - 正在查找坐标 116.450041,39.904833 附近 10 公里内的POI
+2025-08-23 20:58:37,755 - TrajectoryGenerator - INFO - 找到 1343 个附近POI
+2025-08-23 20:58:37,781 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:58:42,429 - TrajectoryGenerator - INFO - 居民 53 的轨迹生成成功
+2025-08-23 20:58:42,433 - TrajectoryGenerator - INFO - 居民 53 的轨迹已保存到 traj_53.json
+2025-08-23 20:58:42,433 - TrajectoryGenerator - INFO - 居民 54 的轨迹不存在，开始生成
+2025-08-23 20:58:42,435 - TrajectoryGenerator - INFO - 开始为居民 54 生成轨迹 (年龄: 36, 职业: 中级白领)
+2025-08-23 20:58:42,435 - TrajectoryGenerator - INFO - 正在查找坐标 116.294390,39.934555 附近 10 公里内的POI
+2025-08-23 20:58:42,606 - TrajectoryGenerator - INFO - 找到 847 个附近POI
+2025-08-23 20:58:42,667 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:58:47,084 - TrajectoryGenerator - INFO - 居民 54 的轨迹生成成功
+2025-08-23 20:58:47,086 - TrajectoryGenerator - INFO - 居民 54 的轨迹已保存到 traj_54.json
+2025-08-23 20:58:47,088 - TrajectoryGenerator - INFO - 居民 55 的轨迹不存在，开始生成
+2025-08-23 20:58:47,091 - TrajectoryGenerator - INFO - 开始为居民 55 生成轨迹 (年龄: 43, 职业: 服务业)
+2025-08-23 20:58:47,093 - TrajectoryGenerator - INFO - 正在查找坐标 116.667986,39.882110 附近 10 公里内的POI
+2025-08-23 20:58:47,235 - TrajectoryGenerator - INFO - 找到 115 个附近POI
+2025-08-23 20:58:47,241 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:58:50,420 - TrajectoryGenerator - INFO - 居民 55 的轨迹生成成功
+2025-08-23 20:58:50,421 - TrajectoryGenerator - INFO - 居民 55 的轨迹已保存到 traj_55.json
+2025-08-23 20:58:50,422 - TrajectoryGenerator - INFO - 居民 56 的轨迹不存在，开始生成
+2025-08-23 20:58:50,422 - TrajectoryGenerator - INFO - 开始为居民 56 生成轨迹 (年龄: 54, 职业: 高级白领)
+2025-08-23 20:58:50,422 - TrajectoryGenerator - INFO - 正在查找坐标 116.200752,39.916929 附近 10 公里内的POI
+2025-08-23 20:58:50,455 - TrajectoryGenerator - INFO - 找到 182 个附近POI
+2025-08-23 20:58:50,459 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:58:54,129 - TrajectoryGenerator - INFO - 居民 56 的轨迹生成成功
+2025-08-23 20:58:54,134 - TrajectoryGenerator - INFO - 居民 56 的轨迹已保存到 traj_56.json
+2025-08-23 20:58:54,163 - TrajectoryGenerator - INFO - 居民 57 的轨迹不存在，开始生成
+2025-08-23 20:58:54,163 - TrajectoryGenerator - INFO - 开始为居民 57 生成轨迹 (年龄: 89, 职业: 退休人员)
+2025-08-23 20:58:54,163 - TrajectoryGenerator - INFO - 正在查找坐标 116.368999,39.876452 附近 10 公里内的POI
+2025-08-23 20:58:54,247 - TrajectoryGenerator - INFO - 找到 1306 个附近POI
+2025-08-23 20:58:54,299 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:58:58,094 - TrajectoryGenerator - INFO - 居民 57 的轨迹生成成功
+2025-08-23 20:58:58,095 - TrajectoryGenerator - INFO - 居民 57 的轨迹已保存到 traj_57.json
+2025-08-23 20:58:58,097 - TrajectoryGenerator - INFO - 居民 58 的轨迹不存在，开始生成
+2025-08-23 20:58:58,097 - TrajectoryGenerator - INFO - 开始为居民 58 生成轨迹 (年龄: 39, 职业: 中级白领)
+2025-08-23 20:58:58,100 - TrajectoryGenerator - INFO - 正在查找坐标 116.355180,39.895408 附近 10 公里内的POI
+2025-08-23 20:58:58,161 - TrajectoryGenerator - INFO - 找到 1399 个附近POI
+2025-08-23 20:58:58,211 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:59:01,990 - TrajectoryGenerator - INFO - 居民 58 的轨迹生成成功
+2025-08-23 20:59:01,993 - TrajectoryGenerator - INFO - 居民 58 的轨迹已保存到 traj_58.json
+2025-08-23 20:59:01,996 - TrajectoryGenerator - INFO - 居民 59 的轨迹不存在，开始生成
+2025-08-23 20:59:01,998 - TrajectoryGenerator - INFO - 开始为居民 59 生成轨迹 (年龄: 7, 职业: 学生)
+2025-08-23 20:59:02,000 - TrajectoryGenerator - INFO - 正在查找坐标 116.415299,39.896129 附近 10 公里内的POI
+2025-08-23 20:59:02,072 - TrajectoryGenerator - INFO - 找到 1389 个附近POI
+2025-08-23 20:59:02,125 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:59:05,785 - TrajectoryGenerator - INFO - 居民 59 的轨迹生成成功
+2025-08-23 20:59:05,786 - TrajectoryGenerator - INFO - 居民 59 的轨迹已保存到 traj_59.json
+2025-08-23 20:59:05,789 - TrajectoryGenerator - INFO - 居民 60 的轨迹不存在，开始生成
+2025-08-23 20:59:05,789 - TrajectoryGenerator - INFO - 开始为居民 60 生成轨迹 (年龄: 95, 职业: 退休人员)
+2025-08-23 20:59:05,790 - TrajectoryGenerator - INFO - 正在查找坐标 116.314272,39.979423 附近 10 公里内的POI
+2025-08-23 20:59:05,847 - TrajectoryGenerator - INFO - 找到 736 个附近POI
+2025-08-23 20:59:05,857 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:59:09,976 - TrajectoryGenerator - INFO - 居民 60 的轨迹生成成功
+2025-08-23 20:59:09,977 - TrajectoryGenerator - INFO - 居民 60 的轨迹已保存到 traj_60.json
+2025-08-23 20:59:09,979 - TrajectoryGenerator - INFO - 居民 61 的轨迹不存在，开始生成
+2025-08-23 20:59:09,979 - TrajectoryGenerator - INFO - 开始为居民 61 生成轨迹 (年龄: 76, 职业: 退休人员)
+2025-08-23 20:59:09,979 - TrajectoryGenerator - INFO - 正在查找坐标 116.406782,39.945155 附近 10 公里内的POI
+2025-08-23 20:59:10,061 - TrajectoryGenerator - INFO - 找到 1535 个附近POI
+2025-08-23 20:59:10,088 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:59:13,956 - TrajectoryGenerator - INFO - 居民 61 的轨迹生成成功
+2025-08-23 20:59:13,959 - TrajectoryGenerator - INFO - 居民 61 的轨迹已保存到 traj_61.json
+2025-08-23 20:59:13,959 - TrajectoryGenerator - INFO - 居民 62 的轨迹不存在，开始生成
+2025-08-23 20:59:13,959 - TrajectoryGenerator - INFO - 开始为居民 62 生成轨迹 (年龄: 22, 职业: 学生)
+2025-08-23 20:59:13,965 - TrajectoryGenerator - INFO - 正在查找坐标 116.170843,39.712211 附近 10 公里内的POI
+2025-08-23 20:59:14,026 - TrajectoryGenerator - INFO - 找到 48 个附近POI
+2025-08-23 20:59:14,026 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:59:17,414 - TrajectoryGenerator - INFO - 居民 62 的轨迹生成成功
+2025-08-23 20:59:17,417 - TrajectoryGenerator - INFO - 居民 62 的轨迹已保存到 traj_62.json
+2025-08-23 20:59:17,419 - TrajectoryGenerator - INFO - 居民 63 的轨迹不存在，开始生成
+2025-08-23 20:59:17,423 - TrajectoryGenerator - INFO - 开始为居民 63 生成轨迹 (年龄: 48, 职业: 初级白领)
+2025-08-23 20:59:17,423 - TrajectoryGenerator - INFO - 正在查找坐标 116.250402,39.908794 附近 10 公里内的POI
+2025-08-23 20:59:17,483 - TrajectoryGenerator - INFO - 找到 449 个附近POI
+2025-08-23 20:59:17,491 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:59:22,158 - TrajectoryGenerator - INFO - 居民 63 的轨迹生成成功
+2025-08-23 20:59:22,161 - TrajectoryGenerator - INFO - 居民 63 的轨迹已保存到 traj_63.json
+2025-08-23 20:59:22,181 - TrajectoryGenerator - INFO - 居民 64 的轨迹不存在，开始生成
+2025-08-23 20:59:22,181 - TrajectoryGenerator - INFO - 开始为居民 64 生成轨迹 (年龄: 74, 职业: 退休人员)
+2025-08-23 20:59:22,181 - TrajectoryGenerator - INFO - 正在查找坐标 116.454268,39.883759 附近 10 公里内的POI
+2025-08-23 20:59:22,251 - TrajectoryGenerator - INFO - 找到 1250 个附近POI
+2025-08-23 20:59:22,281 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:59:26,264 - TrajectoryGenerator - INFO - 居民 64 的轨迹生成成功
+2025-08-23 20:59:26,265 - TrajectoryGenerator - INFO - 居民 64 的轨迹已保存到 traj_64.json
+2025-08-23 20:59:26,283 - TrajectoryGenerator - INFO - 居民 65 的轨迹不存在，开始生成
+2025-08-23 20:59:26,285 - TrajectoryGenerator - INFO - 开始为居民 65 生成轨迹 (年龄: 55, 职业: 中级白领)
+2025-08-23 20:59:26,285 - TrajectoryGenerator - INFO - 正在查找坐标 116.488643,39.937319 附近 10 公里内的POI
+2025-08-23 20:59:26,362 - TrajectoryGenerator - INFO - 找到 1052 个附近POI
+2025-08-23 20:59:26,402 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:59:30,461 - TrajectoryGenerator - INFO - 居民 65 的轨迹生成成功
+2025-08-23 20:59:30,464 - TrajectoryGenerator - INFO - 居民 65 的轨迹已保存到 traj_65.json
+2025-08-23 20:59:30,480 - TrajectoryGenerator - INFO - 居民 66 的轨迹不存在，开始生成
+2025-08-23 20:59:30,483 - TrajectoryGenerator - INFO - 开始为居民 66 生成轨迹 (年龄: 28, 职业: 初级白领)
+2025-08-23 20:59:30,483 - TrajectoryGenerator - INFO - 正在查找坐标 116.340258,39.883745 附近 10 公里内的POI
+2025-08-23 20:59:30,544 - TrajectoryGenerator - INFO - 找到 1191 个附近POI
+2025-08-23 20:59:30,566 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:59:34,688 - TrajectoryGenerator - INFO - 居民 66 的轨迹生成成功
+2025-08-23 20:59:34,689 - TrajectoryGenerator - INFO - 居民 66 的轨迹已保存到 traj_66.json
+2025-08-23 20:59:34,691 - TrajectoryGenerator - INFO - 居民 67 的轨迹不存在，开始生成
+2025-08-23 20:59:34,691 - TrajectoryGenerator - INFO - 开始为居民 67 生成轨迹 (年龄: 26, 职业: 中级白领)
+2025-08-23 20:59:34,691 - TrajectoryGenerator - INFO - 正在查找坐标 116.361911,39.884611 附近 10 公里内的POI
+2025-08-23 20:59:34,726 - TrajectoryGenerator - INFO - 找到 1337 个附近POI
+2025-08-23 20:59:34,761 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:59:38,959 - TrajectoryGenerator - INFO - 居民 67 的轨迹生成成功
+2025-08-23 20:59:38,961 - TrajectoryGenerator - INFO - 居民 67 的轨迹已保存到 traj_67.json
+2025-08-23 20:59:38,981 - TrajectoryGenerator - INFO - 居民 68 的轨迹不存在，开始生成
+2025-08-23 20:59:38,981 - TrajectoryGenerator - INFO - 开始为居民 68 生成轨迹 (年龄: 69, 职业: 退休人员)
+2025-08-23 20:59:38,981 - TrajectoryGenerator - INFO - 正在查找坐标 116.498466,39.791039 附近 10 公里内的POI
+2025-08-23 20:59:39,056 - TrajectoryGenerator - INFO - 找到 173 个附近POI
+2025-08-23 20:59:39,061 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:59:42,644 - TrajectoryGenerator - INFO - 居民 68 的轨迹生成成功
+2025-08-23 20:59:42,649 - TrajectoryGenerator - INFO - 居民 68 的轨迹已保存到 traj_68.json
+2025-08-23 20:59:42,666 - TrajectoryGenerator - INFO - 居民 69 的轨迹不存在，开始生成
+2025-08-23 20:59:42,666 - TrajectoryGenerator - INFO - 开始为居民 69 生成轨迹 (年龄: 33, 职业: 服务业)
+2025-08-23 20:59:42,681 - TrajectoryGenerator - INFO - 正在查找坐标 116.411081,40.044123 附近 10 公里内的POI
+2025-08-23 20:59:42,747 - TrajectoryGenerator - INFO - 找到 410 个附近POI
+2025-08-23 20:59:42,759 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:59:46,798 - TrajectoryGenerator - INFO - 居民 69 的轨迹生成成功
+2025-08-23 20:59:46,801 - TrajectoryGenerator - INFO - 居民 69 的轨迹已保存到 traj_69.json
+2025-08-23 20:59:46,803 - TrajectoryGenerator - INFO - 居民 70 的轨迹不存在，开始生成
+2025-08-23 20:59:46,803 - TrajectoryGenerator - INFO - 开始为居民 70 生成轨迹 (年龄: 50, 职业: 高级白领)
+2025-08-23 20:59:46,803 - TrajectoryGenerator - INFO - 正在查找坐标 116.477070,39.913240 附近 10 公里内的POI
+2025-08-23 20:59:46,874 - TrajectoryGenerator - INFO - 找到 1200 个附近POI
+2025-08-23 20:59:46,910 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:59:53,164 - TrajectoryGenerator - INFO - 居民 70 的轨迹生成成功
+2025-08-23 20:59:53,165 - TrajectoryGenerator - INFO - 居民 70 的轨迹已保存到 traj_70.json
+2025-08-23 20:59:53,168 - TrajectoryGenerator - INFO - 居民 71 的轨迹不存在，开始生成
+2025-08-23 20:59:53,168 - TrajectoryGenerator - INFO - 开始为居民 71 生成轨迹 (年龄: 27, 职业: 中级白领)
+2025-08-23 20:59:53,168 - TrajectoryGenerator - INFO - 正在查找坐标 116.313635,39.956391 附近 10 公里内的POI
+2025-08-23 20:59:53,251 - TrajectoryGenerator - INFO - 找到 926 个附近POI
+2025-08-23 20:59:53,286 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 20:59:57,494 - TrajectoryGenerator - INFO - 居民 71 的轨迹生成成功
+2025-08-23 20:59:57,496 - TrajectoryGenerator - INFO - 居民 71 的轨迹已保存到 traj_71.json
+2025-08-23 20:59:57,497 - TrajectoryGenerator - INFO - 居民 72 的轨迹不存在，开始生成
+2025-08-23 20:59:57,497 - TrajectoryGenerator - INFO - 开始为居民 72 生成轨迹 (年龄: 47, 职业: 初级白领)
+2025-08-23 20:59:57,504 - TrajectoryGenerator - INFO - 正在查找坐标 116.477070,39.913240 附近 10 公里内的POI
+2025-08-23 20:59:57,581 - TrajectoryGenerator - INFO - 找到 1200 个附近POI
+2025-08-23 20:59:57,627 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 21:00:01,991 - TrajectoryGenerator - INFO - 居民 72 的轨迹生成成功
+2025-08-23 21:00:01,992 - TrajectoryGenerator - INFO - 居民 72 的轨迹已保存到 traj_72.json
+2025-08-23 21:00:01,995 - TrajectoryGenerator - INFO - 居民 73 的轨迹不存在，开始生成
+2025-08-23 21:00:01,995 - TrajectoryGenerator - INFO - 开始为居民 73 生成轨迹 (年龄: 52, 职业: 服务业)
+2025-08-23 21:00:01,999 - TrajectoryGenerator - INFO - 正在查找坐标 116.442904,39.934060 附近 10 公里内的POI
+2025-08-23 21:00:02,057 - TrajectoryGenerator - INFO - 找到 1401 个附近POI
+2025-08-23 21:00:02,117 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 21:00:05,607 - TrajectoryGenerator - INFO - 居民 73 的轨迹生成成功
+2025-08-23 21:00:05,611 - TrajectoryGenerator - INFO - 居民 73 的轨迹已保存到 traj_73.json
+2025-08-23 21:00:05,629 - TrajectoryGenerator - INFO - 居民 74 的轨迹不存在，开始生成
+2025-08-23 21:00:05,630 - TrajectoryGenerator - INFO - 开始为居民 74 生成轨迹 (年龄: 39, 职业: 初级白领)
+2025-08-23 21:00:05,630 - TrajectoryGenerator - INFO - 正在查找坐标 116.438715,39.911438 附近 10 公里内的POI
+2025-08-23 21:00:05,670 - TrajectoryGenerator - INFO - 找到 1401 个附近POI
+2025-08-23 21:00:05,703 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 21:00:09,465 - TrajectoryGenerator - INFO - 居民 74 的轨迹生成成功
+2025-08-23 21:00:09,467 - TrajectoryGenerator - INFO - 居民 74 的轨迹已保存到 traj_74.json
+2025-08-23 21:00:09,467 - TrajectoryGenerator - INFO - 居民 75 的轨迹不存在，开始生成
+2025-08-23 21:00:09,467 - TrajectoryGenerator - INFO - 开始为居民 75 生成轨迹 (年龄: 23, 职业: 蓝领)
+2025-08-23 21:00:09,467 - TrajectoryGenerator - INFO - 正在查找坐标 116.205588,39.895978 附近 10 公里内的POI
+2025-08-23 21:00:09,504 - TrajectoryGenerator - INFO - 找到 196 个附近POI
+2025-08-23 21:00:09,508 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 21:00:12,674 - TrajectoryGenerator - INFO - 居民 75 的轨迹生成成功
+2025-08-23 21:00:12,676 - TrajectoryGenerator - INFO - 居民 75 的轨迹已保存到 traj_75.json
+2025-08-23 21:00:12,685 - TrajectoryGenerator - INFO - 居民 76 的轨迹不存在，开始生成
+2025-08-23 21:00:12,687 - TrajectoryGenerator - INFO - 开始为居民 76 生成轨迹 (年龄: 3, 职业: 学生)
+2025-08-23 21:00:12,687 - TrajectoryGenerator - INFO - 正在查找坐标 116.499105,39.894483 附近 10 公里内的POI
+2025-08-23 21:00:12,764 - TrajectoryGenerator - INFO - 找到 987 个附近POI
+2025-08-23 21:00:12,795 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 21:00:17,311 - TrajectoryGenerator - INFO - 居民 76 的轨迹生成成功
+2025-08-23 21:00:17,316 - TrajectoryGenerator - INFO - 居民 76 的轨迹已保存到 traj_76.json
+2025-08-23 21:00:17,351 - TrajectoryGenerator - INFO - 居民 77 的轨迹不存在，开始生成
+2025-08-23 21:00:17,351 - TrajectoryGenerator - INFO - 开始为居民 77 生成轨迹 (年龄: 94, 职业: 退休人员)
+2025-08-23 21:00:17,351 - TrajectoryGenerator - INFO - 正在查找坐标 116.630083,40.325415 附近 10 公里内的POI
+2025-08-23 21:00:17,396 - TrajectoryGenerator - INFO - 找到 19 个附近POI
+2025-08-23 21:00:17,397 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 21:00:20,321 - TrajectoryGenerator - INFO - 居民 77 的轨迹生成成功
+2025-08-23 21:00:20,325 - TrajectoryGenerator - INFO - 居民 77 的轨迹已保存到 traj_77.json
+2025-08-23 21:00:20,326 - TrajectoryGenerator - INFO - 居民 78 的轨迹不存在，开始生成
+2025-08-23 21:00:20,328 - TrajectoryGenerator - INFO - 开始为居民 78 生成轨迹 (年龄: 77, 职业: 退休人员)
+2025-08-23 21:00:20,341 - TrajectoryGenerator - INFO - 正在查找坐标 116.227522,40.215582 附近 10 公里内的POI
+2025-08-23 21:00:20,404 - TrajectoryGenerator - INFO - 找到 50 个附近POI
+2025-08-23 21:00:20,406 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 21:00:24,333 - TrajectoryGenerator - INFO - 居民 78 的轨迹生成成功
+2025-08-23 21:00:24,335 - TrajectoryGenerator - INFO - 居民 78 的轨迹已保存到 traj_78.json
+2025-08-23 21:00:24,339 - TrajectoryGenerator - INFO - 居民 79 的轨迹不存在，开始生成
+2025-08-23 21:00:24,358 - TrajectoryGenerator - INFO - 开始为居民 79 生成轨迹 (年龄: 44, 职业: 中级白领)
+2025-08-23 21:00:24,358 - TrajectoryGenerator - INFO - 正在查找坐标 116.459232,39.895364 附近 10 公里内的POI
+2025-08-23 21:00:24,451 - TrajectoryGenerator - INFO - 找到 1257 个附近POI
+2025-08-23 21:00:24,501 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 21:00:28,315 - TrajectoryGenerator - INFO - 居民 79 的轨迹生成成功
+2025-08-23 21:00:28,319 - TrajectoryGenerator - INFO - 居民 79 的轨迹已保存到 traj_79.json
+2025-08-23 21:00:28,320 - TrajectoryGenerator - INFO - 居民 80 的轨迹不存在，开始生成
+2025-08-23 21:00:28,321 - TrajectoryGenerator - INFO - 开始为居民 80 生成轨迹 (年龄: 78, 职业: 退休人员)
+2025-08-23 21:00:28,326 - TrajectoryGenerator - INFO - 正在查找坐标 116.159580,39.718436 附近 10 公里内的POI
+2025-08-23 21:00:28,395 - TrajectoryGenerator - INFO - 找到 48 个附近POI
+2025-08-23 21:00:28,400 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 21:00:31,997 - TrajectoryGenerator - INFO - 居民 80 的轨迹生成成功
+2025-08-23 21:00:32,001 - TrajectoryGenerator - INFO - 居民 80 的轨迹已保存到 traj_80.json
+2025-08-23 21:00:32,002 - TrajectoryGenerator - INFO - 居民 81 的轨迹不存在，开始生成
+2025-08-23 21:00:32,004 - TrajectoryGenerator - INFO - 开始为居民 81 生成轨迹 (年龄: 33, 职业: 中级白领)
+2025-08-23 21:00:32,009 - TrajectoryGenerator - INFO - 正在查找坐标 116.426305,40.141900 附近 10 公里内的POI
+2025-08-23 21:00:32,066 - TrajectoryGenerator - INFO - 找到 62 个附近POI
+2025-08-23 21:00:32,069 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 21:00:36,813 - TrajectoryGenerator - INFO - 居民 81 的轨迹生成成功
+2025-08-23 21:00:36,817 - TrajectoryGenerator - INFO - 居民 81 的轨迹已保存到 traj_81.json
+2025-08-23 21:00:36,848 - TrajectoryGenerator - INFO - 居民 82 的轨迹不存在，开始生成
+2025-08-23 21:00:36,848 - TrajectoryGenerator - INFO - 开始为居民 82 生成轨迹 (年龄: 23, 职业: 中级白领)
+2025-08-23 21:00:36,849 - TrajectoryGenerator - INFO - 正在查找坐标 116.404253,40.176670 附近 10 公里内的POI
+2025-08-23 21:00:36,941 - TrajectoryGenerator - INFO - 找到 23 个附近POI
+2025-08-23 21:00:36,941 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 21:00:40,821 - TrajectoryGenerator - INFO - 居民 82 的轨迹生成成功
+2025-08-23 21:00:40,823 - TrajectoryGenerator - INFO - 居民 82 的轨迹已保存到 traj_82.json
+2025-08-23 21:00:40,843 - TrajectoryGenerator - INFO - 居民 83 的轨迹不存在，开始生成
+2025-08-23 21:00:40,843 - TrajectoryGenerator - INFO - 开始为居民 83 生成轨迹 (年龄: 39, 职业: 中级白领)
+2025-08-23 21:00:40,843 - TrajectoryGenerator - INFO - 正在查找坐标 116.463621,39.906398 附近 10 公里内的POI
+2025-08-23 21:00:40,917 - TrajectoryGenerator - INFO - 找到 1278 个附近POI
+2025-08-23 21:00:40,971 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 21:00:45,367 - TrajectoryGenerator - INFO - 居民 83 的轨迹生成成功
+2025-08-23 21:00:45,371 - TrajectoryGenerator - INFO - 居民 83 的轨迹已保存到 traj_83.json
+2025-08-23 21:00:45,373 - TrajectoryGenerator - INFO - 居民 84 的轨迹不存在，开始生成
+2025-08-23 21:00:45,391 - TrajectoryGenerator - INFO - 开始为居民 84 生成轨迹 (年龄: 34, 职业: 初级白领)
+2025-08-23 21:00:45,393 - TrajectoryGenerator - INFO - 正在查找坐标 116.319057,39.953157 附近 10 公里内的POI
+2025-08-23 21:00:45,440 - TrajectoryGenerator - INFO - 找到 1005 个附近POI
+2025-08-23 21:00:45,461 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 21:00:48,996 - TrajectoryGenerator - INFO - 居民 84 的轨迹生成成功
+2025-08-23 21:00:48,997 - TrajectoryGenerator - INFO - 居民 84 的轨迹已保存到 traj_84.json
+2025-08-23 21:00:49,030 - TrajectoryGenerator - INFO - 居民 85 的轨迹不存在，开始生成
+2025-08-23 21:00:49,031 - TrajectoryGenerator - INFO - 开始为居民 85 生成轨迹 (年龄: 66, 职业: 退休人员)
+2025-08-23 21:00:49,031 - TrajectoryGenerator - INFO - 正在查找坐标 116.375459,39.935217 附近 10 公里内的POI
+2025-08-23 21:00:49,081 - TrajectoryGenerator - INFO - 找到 1519 个附近POI
+2025-08-23 21:00:49,139 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 21:00:52,987 - TrajectoryGenerator - INFO - 居民 85 的轨迹生成成功
+2025-08-23 21:00:52,992 - TrajectoryGenerator - INFO - 居民 85 的轨迹已保存到 traj_85.json
+2025-08-23 21:00:53,028 - TrajectoryGenerator - INFO - 居民 86 的轨迹不存在，开始生成
+2025-08-23 21:00:53,028 - TrajectoryGenerator - INFO - 开始为居民 86 生成轨迹 (年龄: 42, 职业: 蓝领)
+2025-08-23 21:00:53,028 - TrajectoryGenerator - INFO - 正在查找坐标 116.348282,40.032239 附近 10 公里内的POI
+2025-08-23 21:00:53,064 - TrajectoryGenerator - INFO - 找到 482 个附近POI
+2025-08-23 21:00:53,080 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 21:00:57,400 - TrajectoryGenerator - INFO - 居民 86 的轨迹生成成功
+2025-08-23 21:00:57,404 - TrajectoryGenerator - INFO - 居民 86 的轨迹已保存到 traj_86.json
+2025-08-23 21:00:57,408 - TrajectoryGenerator - INFO - 居民 87 的轨迹不存在，开始生成
+2025-08-23 21:00:57,411 - TrajectoryGenerator - INFO - 开始为居民 87 生成轨迹 (年龄: 55, 职业: 初级白领)
+2025-08-23 21:00:57,411 - TrajectoryGenerator - INFO - 正在查找坐标 116.355703,39.921416 附近 10 公里内的POI
+2025-08-23 21:00:57,503 - TrajectoryGenerator - INFO - 找到 1482 个附近POI
+2025-08-23 21:00:57,553 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 21:01:01,485 - TrajectoryGenerator - INFO - 居民 87 的轨迹生成成功
+2025-08-23 21:01:01,489 - TrajectoryGenerator - INFO - 居民 87 的轨迹已保存到 traj_87.json
+2025-08-23 21:01:01,489 - TrajectoryGenerator - INFO - 居民 88 的轨迹不存在，开始生成
+2025-08-23 21:01:01,491 - TrajectoryGenerator - INFO - 开始为居民 88 生成轨迹 (年龄: 72, 职业: 退休人员)
+2025-08-23 21:01:01,496 - TrajectoryGenerator - INFO - 正在查找坐标 116.336595,39.894668 附近 10 公里内的POI
+2025-08-23 21:01:01,589 - TrajectoryGenerator - INFO - 找到 1242 个附近POI
+2025-08-23 21:01:01,644 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 21:01:05,582 - TrajectoryGenerator - INFO - 居民 88 的轨迹生成成功
+2025-08-23 21:01:05,584 - TrajectoryGenerator - INFO - 居民 88 的轨迹已保存到 traj_88.json
+2025-08-23 21:01:05,610 - TrajectoryGenerator - INFO - 居民 89 的轨迹不存在，开始生成
+2025-08-23 21:01:05,611 - TrajectoryGenerator - INFO - 开始为居民 89 生成轨迹 (年龄: 46, 职业: 初级白领)
+2025-08-23 21:01:05,613 - TrajectoryGenerator - INFO - 正在查找坐标 116.34945,39.917069 附近 10 公里内的POI
+2025-08-23 21:01:05,666 - TrajectoryGenerator - INFO - 找到 1437 个附近POI
+2025-08-23 21:01:05,697 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 21:01:10,701 - TrajectoryGenerator - INFO - 居民 89 的轨迹生成成功
+2025-08-23 21:01:10,701 - TrajectoryGenerator - INFO - 居民 89 的轨迹已保存到 traj_89.json
+2025-08-23 21:01:10,701 - TrajectoryGenerator - INFO - 居民 90 的轨迹不存在，开始生成
+2025-08-23 21:01:10,701 - TrajectoryGenerator - INFO - 开始为居民 90 生成轨迹 (年龄: 33, 职业: 蓝领)
+2025-08-23 21:01:10,703 - TrajectoryGenerator - INFO - 正在查找坐标 116.373321,39.931535 附近 10 公里内的POI
+2025-08-23 21:01:10,741 - TrajectoryGenerator - INFO - 找到 1521 个附近POI
+2025-08-23 21:01:10,766 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 21:01:14,623 - TrajectoryGenerator - INFO - 居民 90 的轨迹生成成功
+2025-08-23 21:01:14,626 - TrajectoryGenerator - INFO - 居民 90 的轨迹已保存到 traj_90.json
+2025-08-23 21:01:14,627 - TrajectoryGenerator - INFO - 居民 91 的轨迹不存在，开始生成
+2025-08-23 21:01:14,627 - TrajectoryGenerator - INFO - 开始为居民 91 生成轨迹 (年龄: 56, 职业: 初级白领)
+2025-08-23 21:01:14,627 - TrajectoryGenerator - INFO - 正在查找坐标 116.401501,39.901455 附近 10 公里内的POI
+2025-08-23 21:01:14,764 - TrajectoryGenerator - INFO - 找到 1434 个附近POI
+2025-08-23 21:01:14,821 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 21:01:18,486 - TrajectoryGenerator - INFO - 居民 91 的轨迹生成成功
+2025-08-23 21:01:18,492 - TrajectoryGenerator - INFO - 居民 91 的轨迹已保存到 traj_91.json
+2025-08-23 21:01:18,504 - TrajectoryGenerator - INFO - 居民 92 的轨迹不存在，开始生成
+2025-08-23 21:01:18,506 - TrajectoryGenerator - INFO - 开始为居民 92 生成轨迹 (年龄: 43, 职业: 高级白领)
+2025-08-23 21:01:18,506 - TrajectoryGenerator - INFO - 正在查找坐标 116.420284,39.961940 附近 10 公里内的POI
+2025-08-23 21:01:18,551 - TrajectoryGenerator - INFO - 找到 1356 个附近POI
+2025-08-23 21:01:18,573 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 21:01:22,786 - TrajectoryGenerator - INFO - 居民 92 的轨迹生成成功
+2025-08-23 21:01:22,789 - TrajectoryGenerator - INFO - 居民 92 的轨迹已保存到 traj_92.json
+2025-08-23 21:01:22,790 - TrajectoryGenerator - INFO - 居民 93 的轨迹不存在，开始生成
+2025-08-23 21:01:22,791 - TrajectoryGenerator - INFO - 开始为居民 93 生成轨迹 (年龄: 24, 职业: 初级白领)
+2025-08-23 21:01:22,792 - TrajectoryGenerator - INFO - 正在查找坐标 116.459232,39.895364 附近 10 公里内的POI
+2025-08-23 21:01:22,936 - TrajectoryGenerator - INFO - 找到 1257 个附近POI
+2025-08-23 21:01:23,011 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 21:01:29,031 - TrajectoryGenerator - INFO - 居民 93 的轨迹生成成功
+2025-08-23 21:01:29,035 - TrajectoryGenerator - INFO - 居民 93 的轨迹已保存到 traj_93.json
+2025-08-23 21:01:29,054 - TrajectoryGenerator - INFO - 居民 94 的轨迹不存在，开始生成
+2025-08-23 21:01:29,061 - TrajectoryGenerator - INFO - 开始为居民 94 生成轨迹 (年龄: 46, 职业: 初级白领)
+2025-08-23 21:01:29,063 - TrajectoryGenerator - INFO - 正在查找坐标 116.430599,39.884720 附近 10 公里内的POI
+2025-08-23 21:01:29,216 - TrajectoryGenerator - INFO - 找到 1318 个附近POI
+2025-08-23 21:01:29,301 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 21:01:33,257 - TrajectoryGenerator - INFO - 居民 94 的轨迹生成成功
+2025-08-23 21:01:33,261 - TrajectoryGenerator - INFO - 居民 94 的轨迹已保存到 traj_94.json
+2025-08-23 21:01:33,261 - TrajectoryGenerator - INFO - 居民 95 的轨迹不存在，开始生成
+2025-08-23 21:01:33,261 - TrajectoryGenerator - INFO - 开始为居民 95 生成轨迹 (年龄: 42, 职业: 蓝领)
+2025-08-23 21:01:33,261 - TrajectoryGenerator - INFO - 正在查找坐标 116.442445,39.885025 附近 10 公里内的POI
+2025-08-23 21:01:33,311 - TrajectoryGenerator - INFO - 找到 1286 个附近POI
+2025-08-23 21:01:33,346 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 21:01:37,531 - TrajectoryGenerator - INFO - 居民 95 的轨迹生成成功
+2025-08-23 21:01:37,534 - TrajectoryGenerator - INFO - 居民 95 的轨迹已保存到 traj_95.json
+2025-08-23 21:01:37,543 - TrajectoryGenerator - INFO - 居民 96 的轨迹不存在，开始生成
+2025-08-23 21:01:37,543 - TrajectoryGenerator - INFO - 开始为居民 96 生成轨迹 (年龄: 26, 职业: 中级白领)
+2025-08-23 21:01:37,547 - TrajectoryGenerator - INFO - 正在查找坐标 116.365869,39.921067 附近 10 公里内的POI
+2025-08-23 21:01:37,627 - TrajectoryGenerator - INFO - 找到 1539 个附近POI
+2025-08-23 21:01:37,654 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 21:01:41,635 - TrajectoryGenerator - INFO - 居民 96 的轨迹生成成功
+2025-08-23 21:01:41,638 - TrajectoryGenerator - INFO - 居民 96 的轨迹已保存到 traj_96.json
+2025-08-23 21:01:41,640 - TrajectoryGenerator - INFO - 居民 97 的轨迹不存在，开始生成
+2025-08-23 21:01:41,641 - TrajectoryGenerator - INFO - 开始为居民 97 生成轨迹 (年龄: 59, 职业: 中级白领)
+2025-08-23 21:01:41,643 - TrajectoryGenerator - INFO - 正在查找坐标 116.361681,39.902569 附近 10 公里内的POI
+2025-08-23 21:01:41,797 - TrajectoryGenerator - INFO - 找到 1451 个附近POI
+2025-08-23 21:01:41,885 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 21:01:45,332 - TrajectoryGenerator - INFO - 居民 97 的轨迹生成成功
+2025-08-23 21:01:45,333 - TrajectoryGenerator - INFO - 居民 97 的轨迹已保存到 traj_97.json
+2025-08-23 21:01:45,338 - TrajectoryGenerator - INFO - 居民 98 的轨迹不存在，开始生成
+2025-08-23 21:01:45,346 - TrajectoryGenerator - INFO - 开始为居民 98 生成轨迹 (年龄: 28, 职业: 中级白领)
+2025-08-23 21:01:45,347 - TrajectoryGenerator - INFO - 正在查找坐标 116.664867,40.133987 附近 10 公里内的POI
+2025-08-23 21:01:45,486 - TrajectoryGenerator - INFO - 找到 54 个附近POI
+2025-08-23 21:01:45,491 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 21:01:48,897 - TrajectoryGenerator - INFO - 居民 98 的轨迹生成成功
+2025-08-23 21:01:48,905 - TrajectoryGenerator - INFO - 居民 98 的轨迹已保存到 traj_98.json
+2025-08-23 21:01:48,918 - TrajectoryGenerator - INFO - 居民 99 的轨迹不存在，开始生成
+2025-08-23 21:01:48,925 - TrajectoryGenerator - INFO - 开始为居民 99 生成轨迹 (年龄: 91, 职业: 退休人员)
+2025-08-23 21:01:48,925 - TrajectoryGenerator - INFO - 正在查找坐标 116.312263,39.882620 附近 10 公里内的POI
+2025-08-23 21:01:49,085 - TrajectoryGenerator - INFO - 找到 935 个附近POI
+2025-08-23 21:01:49,145 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 21:01:52,838 - TrajectoryGenerator - INFO - 居民 99 的轨迹生成成功
+2025-08-23 21:01:52,843 - TrajectoryGenerator - INFO - 居民 99 的轨迹已保存到 traj_99.json
+2025-08-23 21:01:52,846 - TrajectoryGenerator - INFO - 居民 100 的轨迹不存在，开始生成
+2025-08-23 21:01:52,850 - TrajectoryGenerator - INFO - 开始为居民 100 生成轨迹 (年龄: 27, 职业: 服务业)
+2025-08-23 21:01:52,852 - TrajectoryGenerator - INFO - 正在查找坐标 116.705862,40.325562 附近 10 公里内的POI
+2025-08-23 21:01:53,010 - TrajectoryGenerator - INFO - 找到 19 个附近POI
+2025-08-23 21:01:53,015 - TrajectoryGenerator - INFO - 调用大语言模型生成轨迹...
+2025-08-23 21:01:57,807 - TrajectoryGenerator - INFO - 居民 100 的轨迹生成成功
+2025-08-23 21:01:57,811 - TrajectoryGenerator - INFO - 居民 100 的轨迹已保存到 traj_100.json
+2025-08-23 21:01:57,812 - TrajectoryGenerator - INFO - 所有居民轨迹处理完成，共 100 条
+2025-08-23 21:01:57,828 - TrajectoryGenerator - INFO - 所有轨迹已保存到 trajectories.json，程序执行完成

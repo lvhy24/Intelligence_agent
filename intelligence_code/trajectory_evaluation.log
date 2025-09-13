@@ -1,0 +1,320 @@
+2025-08-23 21:33:08,463 - TrajectoryEvaluator - INFO - 开始加载轨迹数据...
+2025-08-23 21:33:08,463 - TrajectoryEvaluator - INFO - 成功加载 100 条轨迹数据
+2025-08-23 21:33:08,464 - TrajectoryEvaluator - INFO - 开始加载POI数据...
+2025-08-23 21:33:08,472 - TrajectoryEvaluator - INFO - 成功加载 2656 条POI数据
+2025-08-23 21:33:08,475 - TrajectoryEvaluator - INFO - 开始加载居民数据...
+2025-08-23 21:33:08,475 - TrajectoryEvaluator - INFO - 成功加载 100 条居民数据
+2025-08-23 21:33:08,475 - TrajectoryEvaluator - INFO - 创建POI名称到类型的映射字典...
+2025-08-23 21:33:08,480 - TrajectoryEvaluator - INFO - 开始计算访问分布KL散度...
+2025-08-23 21:33:08,480 - TrajectoryEvaluator - INFO - 真实分布: {'写字楼': 0.437, '商场': 0.211, '住宅区': 0.297, '其他': 0.055}
+2025-08-23 21:33:08,484 - TrajectoryEvaluator - INFO - 从轨迹中提取了 506 个POI访问记录
+2025-08-23 21:33:08,486 - TrajectoryEvaluator - INFO - 模拟分布: {'写字楼': 0.1324110671936759, '商场': 0.20948616600790515, '住宅区': 0.25691699604743085, '其他': 0.017786561264822136}
+2025-08-23 21:33:08,490 - TrajectoryEvaluator - INFO - KL散度计算结果: 0.1317065344387276
+2025-08-23 21:33:08,490 - TrajectoryEvaluator - INFO - 开始计算移动半径...
+2025-08-23 21:33:08,490 - TrajectoryEvaluator - INFO - 创建POI名称到位置的映射字典...
+2025-08-23 21:33:08,490 - TrajectoryEvaluator - INFO - 计算所有轨迹的移动半径...
+2025-08-23 21:33:08,491 - TrajectoryEvaluator - INFO - 计算第 1/100 条轨迹的移动半径
+2025-08-23 21:33:08,491 - TrajectoryEvaluator - INFO - 轨迹 1 的移动半径: 12.92971675203858 公里
+2025-08-23 21:33:08,492 - TrajectoryEvaluator - INFO - 计算第 2/100 条轨迹的移动半径
+2025-08-23 21:33:08,492 - TrajectoryEvaluator - INFO - 轨迹 2 的移动半径: 15.74051424694059 公里
+2025-08-23 21:33:08,492 - TrajectoryEvaluator - INFO - 计算第 3/100 条轨迹的移动半径
+2025-08-23 21:33:08,493 - TrajectoryEvaluator - INFO - 轨迹 3 的移动半径: 19.978223345125166 公里
+2025-08-23 21:33:08,493 - TrajectoryEvaluator - INFO - 计算第 4/100 条轨迹的移动半径
+2025-08-23 21:33:08,494 - TrajectoryEvaluator - INFO - 轨迹 4 的移动半径: 13.178330125183118 公里
+2025-08-23 21:33:08,494 - TrajectoryEvaluator - INFO - 计算第 5/100 条轨迹的移动半径
+2025-08-23 21:33:08,494 - TrajectoryEvaluator - INFO - 轨迹 5 的移动半径: 17.102244829497817 公里
+2025-08-23 21:33:08,494 - TrajectoryEvaluator - INFO - 计算第 6/100 条轨迹的移动半径
+2025-08-23 21:33:08,494 - TrajectoryEvaluator - INFO - 轨迹 6 的移动半径: 5.585755004150867 公里
+2025-08-23 21:33:08,494 - TrajectoryEvaluator - INFO - 计算第 7/100 条轨迹的移动半径
+2025-08-23 21:33:08,495 - TrajectoryEvaluator - INFO - 轨迹 7 的移动半径: 10.772618470528206 公里
+2025-08-23 21:33:08,497 - TrajectoryEvaluator - INFO - 计算第 8/100 条轨迹的移动半径
+2025-08-23 21:33:08,502 - TrajectoryEvaluator - INFO - 轨迹 8 的移动半径: 17.102244829497817 公里
+2025-08-23 21:33:08,505 - TrajectoryEvaluator - INFO - 计算第 9/100 条轨迹的移动半径
+2025-08-23 21:33:08,505 - TrajectoryEvaluator - INFO - 轨迹 9 的移动半径: 14.140449688748765 公里
+2025-08-23 21:33:08,505 - TrajectoryEvaluator - INFO - 计算第 10/100 条轨迹的移动半径
+2025-08-23 21:33:08,507 - TrajectoryEvaluator - INFO - 轨迹 10 的移动半径: 9.25548207013154 公里
+2025-08-23 21:33:08,507 - TrajectoryEvaluator - INFO - 计算第 11/100 条轨迹的移动半径
+2025-08-23 21:33:08,507 - TrajectoryEvaluator - INFO - 轨迹 11 的移动半径: 10.645023521625484 公里
+2025-08-23 21:33:08,507 - TrajectoryEvaluator - INFO - 计算第 12/100 条轨迹的移动半径
+2025-08-23 21:33:08,509 - TrajectoryEvaluator - INFO - 轨迹 12 的移动半径: 8.726108797539544 公里
+2025-08-23 21:33:08,509 - TrajectoryEvaluator - INFO - 计算第 13/100 条轨迹的移动半径
+2025-08-23 21:33:08,509 - TrajectoryEvaluator - INFO - 轨迹 13 的移动半径: 7.942354060454851 公里
+2025-08-23 21:33:08,509 - TrajectoryEvaluator - INFO - 计算第 14/100 条轨迹的移动半径
+2025-08-23 21:33:08,509 - TrajectoryEvaluator - INFO - 轨迹 14 的移动半径: 3.7167028799605815 公里
+2025-08-23 21:33:08,513 - TrajectoryEvaluator - INFO - 计算第 15/100 条轨迹的移动半径
+2025-08-23 21:33:08,518 - TrajectoryEvaluator - INFO - 轨迹 15 的移动半径: 40.26589687720537 公里
+2025-08-23 21:33:08,525 - TrajectoryEvaluator - INFO - 计算第 16/100 条轨迹的移动半径
+2025-08-23 21:33:08,525 - TrajectoryEvaluator - INFO - 轨迹 16 的移动半径: 8.489436669995742 公里
+2025-08-23 21:33:08,525 - TrajectoryEvaluator - INFO - 计算第 17/100 条轨迹的移动半径
+2025-08-23 21:33:08,526 - TrajectoryEvaluator - INFO - 轨迹 17 的移动半径: 18.49015348621087 公里
+2025-08-23 21:33:08,527 - TrajectoryEvaluator - INFO - 计算第 18/100 条轨迹的移动半径
+2025-08-23 21:33:08,527 - TrajectoryEvaluator - INFO - 轨迹 18 的移动半径: 9.222657908928438 公里
+2025-08-23 21:33:08,527 - TrajectoryEvaluator - INFO - 计算第 19/100 条轨迹的移动半径
+2025-08-23 21:33:08,527 - TrajectoryEvaluator - INFO - 轨迹 19 的移动半径: 11.429828232157508 公里
+2025-08-23 21:33:08,527 - TrajectoryEvaluator - INFO - 计算第 20/100 条轨迹的移动半径
+2025-08-23 21:33:08,527 - TrajectoryEvaluator - INFO - 轨迹 20 的移动半径: 19.193800197119923 公里
+2025-08-23 21:33:08,527 - TrajectoryEvaluator - INFO - 计算第 21/100 条轨迹的移动半径
+2025-08-23 21:33:08,527 - TrajectoryEvaluator - INFO - 轨迹 21 的移动半径: 14.178773984092016 公里
+2025-08-23 21:33:08,527 - TrajectoryEvaluator - INFO - 计算第 22/100 条轨迹的移动半径
+2025-08-23 21:33:08,529 - TrajectoryEvaluator - INFO - 轨迹 22 的移动半径: 14.63028520306779 公里
+2025-08-23 21:33:08,529 - TrajectoryEvaluator - INFO - 计算第 23/100 条轨迹的移动半径
+2025-08-23 21:33:08,532 - TrajectoryEvaluator - INFO - 轨迹 23 的移动半径: 21.683579016502318 公里
+2025-08-23 21:33:08,532 - TrajectoryEvaluator - INFO - 计算第 24/100 条轨迹的移动半径
+2025-08-23 21:33:08,532 - TrajectoryEvaluator - INFO - 轨迹 24 的移动半径: 17.488236709100658 公里
+2025-08-23 21:33:08,532 - TrajectoryEvaluator - INFO - 计算第 25/100 条轨迹的移动半径
+2025-08-23 21:33:08,532 - TrajectoryEvaluator - INFO - 轨迹 25 的移动半径: 14.140449688748765 公里
+2025-08-23 21:33:08,532 - TrajectoryEvaluator - INFO - 计算第 26/100 条轨迹的移动半径
+2025-08-23 21:33:08,532 - TrajectoryEvaluator - INFO - 轨迹 26 的移动半径: 14.782591149179193 公里
+2025-08-23 21:33:08,532 - TrajectoryEvaluator - INFO - 计算第 27/100 条轨迹的移动半径
+2025-08-23 21:33:08,532 - TrajectoryEvaluator - INFO - 轨迹 27 的移动半径: 14.413127727019516 公里
+2025-08-23 21:33:08,532 - TrajectoryEvaluator - INFO - 计算第 28/100 条轨迹的移动半径
+2025-08-23 21:33:08,532 - TrajectoryEvaluator - INFO - 轨迹 28 的移动半径: 8.314103581368848 公里
+2025-08-23 21:33:08,532 - TrajectoryEvaluator - INFO - 计算第 29/100 条轨迹的移动半径
+2025-08-23 21:33:08,532 - TrajectoryEvaluator - INFO - 轨迹 29 的移动半径: 7.803535560365108 公里
+2025-08-23 21:33:08,532 - TrajectoryEvaluator - INFO - 计算第 30/100 条轨迹的移动半径
+2025-08-23 21:33:08,534 - TrajectoryEvaluator - INFO - 轨迹 30 的移动半径: 9.352377506517534 公里
+2025-08-23 21:33:08,534 - TrajectoryEvaluator - INFO - 计算第 31/100 条轨迹的移动半径
+2025-08-23 21:33:08,534 - TrajectoryEvaluator - INFO - 轨迹 31 的移动半径: 12.213158850580859 公里
+2025-08-23 21:33:08,534 - TrajectoryEvaluator - INFO - 计算第 32/100 条轨迹的移动半径
+2025-08-23 21:33:08,534 - TrajectoryEvaluator - INFO - 轨迹 32 的移动半径: 12.175191800602038 公里
+2025-08-23 21:33:08,534 - TrajectoryEvaluator - INFO - 计算第 33/100 条轨迹的移动半径
+2025-08-23 21:33:08,535 - TrajectoryEvaluator - INFO - 轨迹 33 的移动半径: 15.74051424694059 公里
+2025-08-23 21:33:08,535 - TrajectoryEvaluator - INFO - 计算第 34/100 条轨迹的移动半径
+2025-08-23 21:33:08,535 - TrajectoryEvaluator - INFO - 轨迹 34 的移动半径: 12.175191800602038 公里
+2025-08-23 21:33:08,535 - TrajectoryEvaluator - INFO - 计算第 35/100 条轨迹的移动半径
+2025-08-23 21:33:08,535 - TrajectoryEvaluator - INFO - 轨迹 35 的移动半径: 5.045667565596346 公里
+2025-08-23 21:33:08,535 - TrajectoryEvaluator - INFO - 计算第 36/100 条轨迹的移动半径
+2025-08-23 21:33:08,537 - TrajectoryEvaluator - INFO - 轨迹 36 的移动半径: 12.175191800602038 公里
+2025-08-23 21:33:08,537 - TrajectoryEvaluator - INFO - 计算第 37/100 条轨迹的移动半径
+2025-08-23 21:33:08,537 - TrajectoryEvaluator - INFO - 轨迹 37 的移动半径: 16.91903491781008 公里
+2025-08-23 21:33:08,537 - TrajectoryEvaluator - INFO - 计算第 38/100 条轨迹的移动半径
+2025-08-23 21:33:08,538 - TrajectoryEvaluator - INFO - 轨迹 38 的移动半径: 16.716314298571746 公里
+2025-08-23 21:33:08,538 - TrajectoryEvaluator - INFO - 计算第 39/100 条轨迹的移动半径
+2025-08-23 21:33:08,538 - TrajectoryEvaluator - INFO - 轨迹 39 的移动半径: 24.20130666360241 公里
+2025-08-23 21:33:08,538 - TrajectoryEvaluator - INFO - 计算第 40/100 条轨迹的移动半径
+2025-08-23 21:33:08,538 - TrajectoryEvaluator - INFO - 轨迹 40 的移动半径: 14.178773984092016 公里
+2025-08-23 21:33:08,538 - TrajectoryEvaluator - INFO - 计算第 41/100 条轨迹的移动半径
+2025-08-23 21:33:08,539 - TrajectoryEvaluator - INFO - 轨迹 41 的移动半径: 9.970732983696573 公里
+2025-08-23 21:33:08,539 - TrajectoryEvaluator - INFO - 计算第 42/100 条轨迹的移动半径
+2025-08-23 21:33:08,539 - TrajectoryEvaluator - INFO - 轨迹 42 的移动半径: 16.692846808245815 公里
+2025-08-23 21:33:08,539 - TrajectoryEvaluator - INFO - 计算第 43/100 条轨迹的移动半径
+2025-08-23 21:33:08,540 - TrajectoryEvaluator - INFO - 轨迹 43 的移动半径: 18.2475896260951 公里
+2025-08-23 21:33:08,540 - TrajectoryEvaluator - INFO - 计算第 44/100 条轨迹的移动半径
+2025-08-23 21:33:08,540 - TrajectoryEvaluator - INFO - 轨迹 44 的移动半径: 20.12979788448336 公里
+2025-08-23 21:33:08,540 - TrajectoryEvaluator - INFO - 计算第 45/100 条轨迹的移动半径
+2025-08-23 21:33:08,540 - TrajectoryEvaluator - INFO - 轨迹 45 的移动半径: 16.10934242910863 公里
+2025-08-23 21:33:08,540 - TrajectoryEvaluator - INFO - 计算第 46/100 条轨迹的移动半径
+2025-08-23 21:33:08,540 - TrajectoryEvaluator - INFO - 轨迹 46 的移动半径: 15.514115172301775 公里
+2025-08-23 21:33:08,540 - TrajectoryEvaluator - INFO - 计算第 47/100 条轨迹的移动半径
+2025-08-23 21:33:08,540 - TrajectoryEvaluator - INFO - 轨迹 47 的移动半径: 11.922238080411248 公里
+2025-08-23 21:33:08,541 - TrajectoryEvaluator - INFO - 计算第 48/100 条轨迹的移动半径
+2025-08-23 21:33:08,541 - TrajectoryEvaluator - INFO - 轨迹 48 的移动半径: 7.803535560365108 公里
+2025-08-23 21:33:08,541 - TrajectoryEvaluator - INFO - 计算第 49/100 条轨迹的移动半径
+2025-08-23 21:33:08,541 - TrajectoryEvaluator - INFO - 轨迹 49 的移动半径: 10.64330799003721 公里
+2025-08-23 21:33:08,541 - TrajectoryEvaluator - INFO - 计算第 50/100 条轨迹的移动半径
+2025-08-23 21:33:08,542 - TrajectoryEvaluator - INFO - 轨迹 50 的移动半径: 7.696058745698999 公里
+2025-08-23 21:33:08,543 - TrajectoryEvaluator - INFO - 计算第 51/100 条轨迹的移动半径
+2025-08-23 21:33:08,543 - TrajectoryEvaluator - INFO - 轨迹 51 的移动半径: 15.293068788336114 公里
+2025-08-23 21:33:08,544 - TrajectoryEvaluator - INFO - 计算第 52/100 条轨迹的移动半径
+2025-08-23 21:33:08,544 - TrajectoryEvaluator - INFO - 轨迹 52 的移动半径: 13.807954627710036 公里
+2025-08-23 21:33:08,544 - TrajectoryEvaluator - INFO - 计算第 53/100 条轨迹的移动半径
+2025-08-23 21:33:08,544 - TrajectoryEvaluator - INFO - 轨迹 53 的移动半径: 5.770532190888892 公里
+2025-08-23 21:33:08,544 - TrajectoryEvaluator - INFO - 计算第 54/100 条轨迹的移动半径
+2025-08-23 21:33:08,544 - TrajectoryEvaluator - INFO - 轨迹 54 的移动半径: 20.980478193503522 公里
+2025-08-23 21:33:08,545 - TrajectoryEvaluator - INFO - 计算第 55/100 条轨迹的移动半径
+2025-08-23 21:33:08,545 - TrajectoryEvaluator - INFO - 轨迹 55 的移动半径: 20.186694783263903 公里
+2025-08-23 21:33:08,545 - TrajectoryEvaluator - INFO - 计算第 56/100 条轨迹的移动半径
+2025-08-23 21:33:08,545 - TrajectoryEvaluator - INFO - 轨迹 56 的移动半径: 12.640659241851607 公里
+2025-08-23 21:33:08,545 - TrajectoryEvaluator - INFO - 计算第 57/100 条轨迹的移动半径
+2025-08-23 21:33:08,545 - TrajectoryEvaluator - INFO - 轨迹 57 的移动半径: 7.958397261546224 公里
+2025-08-23 21:33:08,545 - TrajectoryEvaluator - INFO - 计算第 58/100 条轨迹的移动半径
+2025-08-23 21:33:08,545 - TrajectoryEvaluator - INFO - 轨迹 58 的移动半径: 19.978223345125166 公里
+2025-08-23 21:33:08,547 - TrajectoryEvaluator - INFO - 计算第 59/100 条轨迹的移动半径
+2025-08-23 21:33:08,547 - TrajectoryEvaluator - INFO - 轨迹 59 的移动半径: 12.213158850580859 公里
+2025-08-23 21:33:08,547 - TrajectoryEvaluator - INFO - 计算第 60/100 条轨迹的移动半径
+2025-08-23 21:33:08,547 - TrajectoryEvaluator - INFO - 轨迹 60 的移动半径: 15.145091118130834 公里
+2025-08-23 21:33:08,548 - TrajectoryEvaluator - INFO - 计算第 61/100 条轨迹的移动半径
+2025-08-23 21:33:08,548 - TrajectoryEvaluator - INFO - 轨迹 61 的移动半径: 21.158540836419384 公里
+2025-08-23 21:33:08,548 - TrajectoryEvaluator - INFO - 计算第 62/100 条轨迹的移动半径
+2025-08-23 21:33:08,548 - TrajectoryEvaluator - INFO - 轨迹 62 的移动半径: 5.585755004150867 公里
+2025-08-23 21:33:08,548 - TrajectoryEvaluator - INFO - 计算第 63/100 条轨迹的移动半径
+2025-08-23 21:33:08,548 - TrajectoryEvaluator - INFO - 轨迹 63 的移动半径: 20.047754712395925 公里
+2025-08-23 21:33:08,548 - TrajectoryEvaluator - INFO - 计算第 64/100 条轨迹的移动半径
+2025-08-23 21:33:08,548 - TrajectoryEvaluator - INFO - 轨迹 64 的移动半径: 20.398974612113797 公里
+2025-08-23 21:33:08,548 - TrajectoryEvaluator - INFO - 计算第 65/100 条轨迹的移动半径
+2025-08-23 21:33:08,548 - TrajectoryEvaluator - INFO - 轨迹 65 的移动半径: 12.213158850580859 公里
+2025-08-23 21:33:08,548 - TrajectoryEvaluator - INFO - 计算第 66/100 条轨迹的移动半径
+2025-08-23 21:33:08,548 - TrajectoryEvaluator - INFO - 轨迹 66 的移动半径: 18.630976150165452 公里
+2025-08-23 21:33:08,551 - TrajectoryEvaluator - INFO - 计算第 67/100 条轨迹的移动半径
+2025-08-23 21:33:08,551 - TrajectoryEvaluator - INFO - 轨迹 67 的移动半径: 19.535196417415595 公里
+2025-08-23 21:33:08,551 - TrajectoryEvaluator - INFO - 计算第 68/100 条轨迹的移动半径
+2025-08-23 21:33:08,551 - TrajectoryEvaluator - INFO - 轨迹 68 的移动半径: 9.066996939853373 公里
+2025-08-23 21:33:08,551 - TrajectoryEvaluator - INFO - 计算第 69/100 条轨迹的移动半径
+2025-08-23 21:33:08,552 - TrajectoryEvaluator - INFO - 轨迹 69 的移动半径: 8.820197182608553 公里
+2025-08-23 21:33:08,552 - TrajectoryEvaluator - INFO - 计算第 70/100 条轨迹的移动半径
+2025-08-23 21:33:08,552 - TrajectoryEvaluator - INFO - 轨迹 70 的移动半径: 16.716314298571746 公里
+2025-08-23 21:33:08,552 - TrajectoryEvaluator - INFO - 计算第 71/100 条轨迹的移动半径
+2025-08-23 21:33:08,552 - TrajectoryEvaluator - INFO - 轨迹 71 的移动半径: 11.922238080411248 公里
+2025-08-23 21:33:08,552 - TrajectoryEvaluator - INFO - 计算第 72/100 条轨迹的移动半径
+2025-08-23 21:33:08,552 - TrajectoryEvaluator - INFO - 轨迹 72 的移动半径: 12.213158850580859 公里
+2025-08-23 21:33:08,552 - TrajectoryEvaluator - INFO - 计算第 73/100 条轨迹的移动半径
+2025-08-23 21:33:08,552 - TrajectoryEvaluator - INFO - 轨迹 73 的移动半径: 9.25548207013154 公里
+2025-08-23 21:33:08,552 - TrajectoryEvaluator - INFO - 计算第 74/100 条轨迹的移动半径
+2025-08-23 21:33:08,552 - TrajectoryEvaluator - INFO - 轨迹 74 的移动半径: 8.520431084720705 公里
+2025-08-23 21:33:08,552 - TrajectoryEvaluator - INFO - 计算第 75/100 条轨迹的移动半径
+2025-08-23 21:33:08,552 - TrajectoryEvaluator - INFO - 轨迹 75 的移动半径: 11.520566535591152 公里
+2025-08-23 21:33:08,555 - TrajectoryEvaluator - INFO - 计算第 76/100 条轨迹的移动半径
+2025-08-23 21:33:08,555 - TrajectoryEvaluator - INFO - 轨迹 76 的移动半径: 10.066452019809448 公里
+2025-08-23 21:33:08,555 - TrajectoryEvaluator - INFO - 计算第 77/100 条轨迹的移动半径
+2025-08-23 21:33:08,555 - TrajectoryEvaluator - INFO - 轨迹 77 的移动半径: 6.2504264596346175 公里
+2025-08-23 21:33:08,555 - TrajectoryEvaluator - INFO - 计算第 78/100 条轨迹的移动半径
+2025-08-23 21:33:08,555 - TrajectoryEvaluator - INFO - 轨迹 78 的移动半径: 4.021377884639078 公里
+2025-08-23 21:33:08,555 - TrajectoryEvaluator - INFO - 计算第 79/100 条轨迹的移动半径
+2025-08-23 21:33:08,557 - TrajectoryEvaluator - INFO - 轨迹 79 的移动半径: 16.692846808245815 公里
+2025-08-23 21:33:08,557 - TrajectoryEvaluator - INFO - 计算第 80/100 条轨迹的移动半径
+2025-08-23 21:33:08,557 - TrajectoryEvaluator - INFO - 轨迹 80 的移动半径: 4.984184844982033 公里
+2025-08-23 21:33:08,557 - TrajectoryEvaluator - INFO - 计算第 81/100 条轨迹的移动半径
+2025-08-23 21:33:08,557 - TrajectoryEvaluator - INFO - 轨迹 81 的移动半径: 12.295596200509767 公里
+2025-08-23 21:33:08,557 - TrajectoryEvaluator - INFO - 计算第 82/100 条轨迹的移动半径
+2025-08-23 21:33:08,557 - TrajectoryEvaluator - INFO - 轨迹 82 的移动半径: 19.66134360890647 公里
+2025-08-23 21:33:08,557 - TrajectoryEvaluator - INFO - 计算第 83/100 条轨迹的移动半径
+2025-08-23 21:33:08,557 - TrajectoryEvaluator - INFO - 轨迹 83 的移动半径: 6.046941179648397 公里
+2025-08-23 21:33:08,557 - TrajectoryEvaluator - INFO - 计算第 84/100 条轨迹的移动半径
+2025-08-23 21:33:08,557 - TrajectoryEvaluator - INFO - 轨迹 84 的移动半径: 14.178773984092016 公里
+2025-08-23 21:33:08,557 - TrajectoryEvaluator - INFO - 计算第 85/100 条轨迹的移动半径
+2025-08-23 21:33:08,557 - TrajectoryEvaluator - INFO - 轨迹 85 的移动半径: 7.958397261546224 公里
+2025-08-23 21:33:08,559 - TrajectoryEvaluator - INFO - 计算第 86/100 条轨迹的移动半径
+2025-08-23 21:33:08,559 - TrajectoryEvaluator - INFO - 轨迹 86 的移动半径: 14.782591149179193 公里
+2025-08-23 21:33:08,559 - TrajectoryEvaluator - INFO - 计算第 87/100 条轨迹的移动半径
+2025-08-23 21:33:08,560 - TrajectoryEvaluator - INFO - 轨迹 87 的移动半径: 14.735263357101589 公里
+2025-08-23 21:33:08,560 - TrajectoryEvaluator - INFO - 计算第 88/100 条轨迹的移动半径
+2025-08-23 21:33:08,560 - TrajectoryEvaluator - INFO - 轨迹 88 的移动半径: 17.785234563444824 公里
+2025-08-23 21:33:08,560 - TrajectoryEvaluator - INFO - 计算第 89/100 条轨迹的移动半径
+2025-08-23 21:33:08,560 - TrajectoryEvaluator - INFO - 轨迹 89 的移动半径: 16.32239354975004 公里
+2025-08-23 21:33:08,560 - TrajectoryEvaluator - INFO - 计算第 90/100 条轨迹的移动半径
+2025-08-23 21:33:08,560 - TrajectoryEvaluator - INFO - 轨迹 90 的移动半径: 15.758279282237998 公里
+2025-08-23 21:33:08,560 - TrajectoryEvaluator - INFO - 计算第 91/100 条轨迹的移动半径
+2025-08-23 21:33:08,562 - TrajectoryEvaluator - INFO - 轨迹 91 的移动半径: 17.51449476362847 公里
+2025-08-23 21:33:08,562 - TrajectoryEvaluator - INFO - 计算第 92/100 条轨迹的移动半径
+2025-08-23 21:33:08,562 - TrajectoryEvaluator - INFO - 轨迹 92 的移动半径: 21.2682683454723 公里
+2025-08-23 21:33:08,562 - TrajectoryEvaluator - INFO - 计算第 93/100 条轨迹的移动半径
+2025-08-23 21:33:08,562 - TrajectoryEvaluator - INFO - 轨迹 93 的移动半径: 16.692846808245815 公里
+2025-08-23 21:33:08,562 - TrajectoryEvaluator - INFO - 计算第 94/100 条轨迹的移动半径
+2025-08-23 21:33:08,562 - TrajectoryEvaluator - INFO - 轨迹 94 的移动半径: 15.74051424694059 公里
+2025-08-23 21:33:08,562 - TrajectoryEvaluator - INFO - 计算第 95/100 条轨迹的移动半径
+2025-08-23 21:33:08,562 - TrajectoryEvaluator - INFO - 轨迹 95 的移动半径: 12.175191800602038 公里
+2025-08-23 21:33:08,562 - TrajectoryEvaluator - INFO - 计算第 96/100 条轨迹的移动半径
+2025-08-23 21:33:08,564 - TrajectoryEvaluator - INFO - 轨迹 96 的移动半径: 19.978223345125166 公里
+2025-08-23 21:33:08,564 - TrajectoryEvaluator - INFO - 计算第 97/100 条轨迹的移动半径
+2025-08-23 21:33:08,564 - TrajectoryEvaluator - INFO - 轨迹 97 的移动半径: 15.758279282237998 公里
+2025-08-23 21:33:08,564 - TrajectoryEvaluator - INFO - 计算第 98/100 条轨迹的移动半径
+2025-08-23 21:33:08,564 - TrajectoryEvaluator - INFO - 轨迹 98 的移动半径: 8.780016372612456 公里
+2025-08-23 21:33:08,564 - TrajectoryEvaluator - INFO - 计算第 99/100 条轨迹的移动半径
+2025-08-23 21:33:08,564 - TrajectoryEvaluator - INFO - 轨迹 99 的移动半径: 16.655909962529556 公里
+2025-08-23 21:33:08,564 - TrajectoryEvaluator - INFO - 计算第 100/100 条轨迹的移动半径
+2025-08-23 21:33:08,564 - TrajectoryEvaluator - INFO - 轨迹 100 的移动半径: 2.0935039333412027 公里
+2025-08-23 21:33:08,564 - TrajectoryEvaluator - INFO - 开始计算出行链长度...
+2025-08-23 21:33:08,564 - TrajectoryEvaluator - INFO - 轨迹 1 的出行链长度: 5
+2025-08-23 21:33:08,567 - TrajectoryEvaluator - INFO - 轨迹 2 的出行链长度: 5
+2025-08-23 21:33:08,567 - TrajectoryEvaluator - INFO - 轨迹 3 的出行链长度: 5
+2025-08-23 21:33:08,567 - TrajectoryEvaluator - INFO - 轨迹 4 的出行链长度: 5
+2025-08-23 21:33:08,567 - TrajectoryEvaluator - INFO - 轨迹 5 的出行链长度: 5
+2025-08-23 21:33:08,567 - TrajectoryEvaluator - INFO - 轨迹 6 的出行链长度: 5
+2025-08-23 21:33:08,567 - TrajectoryEvaluator - INFO - 轨迹 7 的出行链长度: 6
+2025-08-23 21:33:08,567 - TrajectoryEvaluator - INFO - 轨迹 8 的出行链长度: 5
+2025-08-23 21:33:08,567 - TrajectoryEvaluator - INFO - 轨迹 9 的出行链长度: 5
+2025-08-23 21:33:08,567 - TrajectoryEvaluator - INFO - 轨迹 10 的出行链长度: 5
+2025-08-23 21:33:08,568 - TrajectoryEvaluator - INFO - 轨迹 11 的出行链长度: 4
+2025-08-23 21:33:08,568 - TrajectoryEvaluator - INFO - 轨迹 12 的出行链长度: 5
+2025-08-23 21:33:08,568 - TrajectoryEvaluator - INFO - 轨迹 13 的出行链长度: 5
+2025-08-23 21:33:08,568 - TrajectoryEvaluator - INFO - 轨迹 14 的出行链长度: 5
+2025-08-23 21:33:08,568 - TrajectoryEvaluator - INFO - 轨迹 15 的出行链长度: 5
+2025-08-23 21:33:08,569 - TrajectoryEvaluator - INFO - 轨迹 16 的出行链长度: 5
+2025-08-23 21:33:08,569 - TrajectoryEvaluator - INFO - 轨迹 17 的出行链长度: 5
+2025-08-23 21:33:08,569 - TrajectoryEvaluator - INFO - 轨迹 18 的出行链长度: 5
+2025-08-23 21:33:08,569 - TrajectoryEvaluator - INFO - 轨迹 19 的出行链长度: 6
+2025-08-23 21:33:08,569 - TrajectoryEvaluator - INFO - 轨迹 20 的出行链长度: 5
+2025-08-23 21:33:08,569 - TrajectoryEvaluator - INFO - 轨迹 21 的出行链长度: 4
+2025-08-23 21:33:08,569 - TrajectoryEvaluator - INFO - 轨迹 22 的出行链长度: 5
+2025-08-23 21:33:08,569 - TrajectoryEvaluator - INFO - 轨迹 23 的出行链长度: 6
+2025-08-23 21:33:08,569 - TrajectoryEvaluator - INFO - 轨迹 24 的出行链长度: 5
+2025-08-23 21:33:08,569 - TrajectoryEvaluator - INFO - 轨迹 25 的出行链长度: 5
+2025-08-23 21:33:08,571 - TrajectoryEvaluator - INFO - 轨迹 26 的出行链长度: 5
+2025-08-23 21:33:08,571 - TrajectoryEvaluator - INFO - 轨迹 27 的出行链长度: 5
+2025-08-23 21:33:08,572 - TrajectoryEvaluator - INFO - 轨迹 28 的出行链长度: 5
+2025-08-23 21:33:08,572 - TrajectoryEvaluator - INFO - 轨迹 29 的出行链长度: 5
+2025-08-23 21:33:08,572 - TrajectoryEvaluator - INFO - 轨迹 30 的出行链长度: 3
+2025-08-23 21:33:08,572 - TrajectoryEvaluator - INFO - 轨迹 31 的出行链长度: 5
+2025-08-23 21:33:08,572 - TrajectoryEvaluator - INFO - 轨迹 32 的出行链长度: 5
+2025-08-23 21:33:08,572 - TrajectoryEvaluator - INFO - 轨迹 33 的出行链长度: 5
+2025-08-23 21:33:08,572 - TrajectoryEvaluator - INFO - 轨迹 34 的出行链长度: 6
+2025-08-23 21:33:08,572 - TrajectoryEvaluator - INFO - 轨迹 35 的出行链长度: 5
+2025-08-23 21:33:08,572 - TrajectoryEvaluator - INFO - 轨迹 36 的出行链长度: 5
+2025-08-23 21:33:08,572 - TrajectoryEvaluator - INFO - 轨迹 37 的出行链长度: 5
+2025-08-23 21:33:08,572 - TrajectoryEvaluator - INFO - 轨迹 38 的出行链长度: 5
+2025-08-23 21:33:08,572 - TrajectoryEvaluator - INFO - 轨迹 39 的出行链长度: 5
+2025-08-23 21:33:08,572 - TrajectoryEvaluator - INFO - 轨迹 40 的出行链长度: 5
+2025-08-23 21:33:08,572 - TrajectoryEvaluator - INFO - 轨迹 41 的出行链长度: 5
+2025-08-23 21:33:08,572 - TrajectoryEvaluator - INFO - 轨迹 42 的出行链长度: 5
+2025-08-23 21:33:08,572 - TrajectoryEvaluator - INFO - 轨迹 43 的出行链长度: 5
+2025-08-23 21:33:08,572 - TrajectoryEvaluator - INFO - 轨迹 44 的出行链长度: 6
+2025-08-23 21:33:08,572 - TrajectoryEvaluator - INFO - 轨迹 45 的出行链长度: 5
+2025-08-23 21:33:08,572 - TrajectoryEvaluator - INFO - 轨迹 46 的出行链长度: 5
+2025-08-23 21:33:08,572 - TrajectoryEvaluator - INFO - 轨迹 47 的出行链长度: 5
+2025-08-23 21:33:08,572 - TrajectoryEvaluator - INFO - 轨迹 48 的出行链长度: 5
+2025-08-23 21:33:08,572 - TrajectoryEvaluator - INFO - 轨迹 49 的出行链长度: 5
+2025-08-23 21:33:08,572 - TrajectoryEvaluator - INFO - 轨迹 50 的出行链长度: 5
+2025-08-23 21:33:08,572 - TrajectoryEvaluator - INFO - 轨迹 51 的出行链长度: 6
+2025-08-23 21:33:08,575 - TrajectoryEvaluator - INFO - 轨迹 52 的出行链长度: 5
+2025-08-23 21:33:08,575 - TrajectoryEvaluator - INFO - 轨迹 53 的出行链长度: 5
+2025-08-23 21:33:08,575 - TrajectoryEvaluator - INFO - 轨迹 54 的出行链长度: 5
+2025-08-23 21:33:08,575 - TrajectoryEvaluator - INFO - 轨迹 55 的出行链长度: 6
+2025-08-23 21:33:08,575 - TrajectoryEvaluator - INFO - 轨迹 56 的出行链长度: 5
+2025-08-23 21:33:08,575 - TrajectoryEvaluator - INFO - 轨迹 57 的出行链长度: 5
+2025-08-23 21:33:08,575 - TrajectoryEvaluator - INFO - 轨迹 58 的出行链长度: 5
+2025-08-23 21:33:08,575 - TrajectoryEvaluator - INFO - 轨迹 59 的出行链长度: 5
+2025-08-23 21:33:08,575 - TrajectoryEvaluator - INFO - 轨迹 60 的出行链长度: 5
+2025-08-23 21:33:08,575 - TrajectoryEvaluator - INFO - 轨迹 61 的出行链长度: 5
+2025-08-23 21:33:08,575 - TrajectoryEvaluator - INFO - 轨迹 62 的出行链长度: 5
+2025-08-23 21:33:08,577 - TrajectoryEvaluator - INFO - 轨迹 63 的出行链长度: 6
+2025-08-23 21:33:08,577 - TrajectoryEvaluator - INFO - 轨迹 64 的出行链长度: 5
+2025-08-23 21:33:08,577 - TrajectoryEvaluator - INFO - 轨迹 65 的出行链长度: 5
+2025-08-23 21:33:08,577 - TrajectoryEvaluator - INFO - 轨迹 66 的出行链长度: 5
+2025-08-23 21:33:08,577 - TrajectoryEvaluator - INFO - 轨迹 67 的出行链长度: 5
+2025-08-23 21:33:08,577 - TrajectoryEvaluator - INFO - 轨迹 68 的出行链长度: 6
+2025-08-23 21:33:08,577 - TrajectoryEvaluator - INFO - 轨迹 69 的出行链长度: 5
+2025-08-23 21:33:08,577 - TrajectoryEvaluator - INFO - 轨迹 70 的出行链长度: 5
+2025-08-23 21:33:08,577 - TrajectoryEvaluator - INFO - 轨迹 71 的出行链长度: 5
+2025-08-23 21:33:08,578 - TrajectoryEvaluator - INFO - 轨迹 72 的出行链长度: 5
+2025-08-23 21:33:08,578 - TrajectoryEvaluator - INFO - 轨迹 73 的出行链长度: 5
+2025-08-23 21:33:08,578 - TrajectoryEvaluator - INFO - 轨迹 74 的出行链长度: 5
+2025-08-23 21:33:08,578 - TrajectoryEvaluator - INFO - 轨迹 75 的出行链长度: 5
+2025-08-23 21:33:08,578 - TrajectoryEvaluator - INFO - 轨迹 76 的出行链长度: 5
+2025-08-23 21:33:08,578 - TrajectoryEvaluator - INFO - 轨迹 77 的出行链长度: 4
+2025-08-23 21:33:08,578 - TrajectoryEvaluator - INFO - 轨迹 78 的出行链长度: 6
+2025-08-23 21:33:08,578 - TrajectoryEvaluator - INFO - 轨迹 79 的出行链长度: 5
+2025-08-23 21:33:08,578 - TrajectoryEvaluator - INFO - 轨迹 80 的出行链长度: 5
+2025-08-23 21:33:08,578 - TrajectoryEvaluator - INFO - 轨迹 81 的出行链长度: 5
+2025-08-23 21:33:08,578 - TrajectoryEvaluator - INFO - 轨迹 82 的出行链长度: 5
+2025-08-23 21:33:08,578 - TrajectoryEvaluator - INFO - 轨迹 83 的出行链长度: 5
+2025-08-23 21:33:08,578 - TrajectoryEvaluator - INFO - 轨迹 84 的出行链长度: 5
+2025-08-23 21:33:08,578 - TrajectoryEvaluator - INFO - 轨迹 85 的出行链长度: 5
+2025-08-23 21:33:08,578 - TrajectoryEvaluator - INFO - 轨迹 86 的出行链长度: 5
+2025-08-23 21:33:08,578 - TrajectoryEvaluator - INFO - 轨迹 87 的出行链长度: 5
+2025-08-23 21:33:08,578 - TrajectoryEvaluator - INFO - 轨迹 88 的出行链长度: 5
+2025-08-23 21:33:08,578 - TrajectoryEvaluator - INFO - 轨迹 89 的出行链长度: 5
+2025-08-23 21:33:08,581 - TrajectoryEvaluator - INFO - 轨迹 90 的出行链长度: 5
+2025-08-23 21:33:08,582 - TrajectoryEvaluator - INFO - 轨迹 91 的出行链长度: 5
+2025-08-23 21:33:08,582 - TrajectoryEvaluator - INFO - 轨迹 92 的出行链长度: 5
+2025-08-23 21:33:08,582 - TrajectoryEvaluator - INFO - 轨迹 93 的出行链长度: 6
+2025-08-23 21:33:08,582 - TrajectoryEvaluator - INFO - 轨迹 94 的出行链长度: 5
+2025-08-23 21:33:08,582 - TrajectoryEvaluator - INFO - 轨迹 95 的出行链长度: 5
+2025-08-23 21:33:08,582 - TrajectoryEvaluator - INFO - 轨迹 96 的出行链长度: 5
+2025-08-23 21:33:08,582 - TrajectoryEvaluator - INFO - 轨迹 97 的出行链长度: 5
+2025-08-23 21:33:08,582 - TrajectoryEvaluator - INFO - 轨迹 98 的出行链长度: 5
+2025-08-23 21:33:08,582 - TrajectoryEvaluator - INFO - 轨迹 99 的出行链长度: 5
+2025-08-23 21:33:08,582 - TrajectoryEvaluator - INFO - 轨迹 100 的出行链长度: 5
+2025-08-23 21:33:08,584 - TrajectoryEvaluator - INFO - 评估完成，输出最终结果:
+2025-08-23 21:33:08,584 - TrajectoryEvaluator - INFO - 平均移动半径计算结果: 13.647418643695575 公里
+2025-08-23 21:33:08,584 - TrajectoryEvaluator - INFO - 平均出行链长度计算结果: 5.06
+2025-08-23 21:33:08,584 - TrajectoryEvaluator - INFO - 轨迹评估程序执行完成
